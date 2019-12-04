@@ -42,6 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```liquid & markdown
 
 ---
+layout: default
 title: 
 published_at: ""
 updated_at: ""
@@ -50,7 +51,7 @@ tags: []
 status: unpublished
 ---
 
-[BACK](../)
+[BACK TO HOME](https://tane-rs.github.io)
 
 # {{page.title}}
 
@@ -68,7 +69,7 @@ updated at {{ page.updated_at | date: "%Y-%m-%d" }}
   {{ tag }}
 {% endfor %}
 
-[BACK](../)
+[BACK TO HOME](https://tane-rs.github.io)
 
 ```
 
