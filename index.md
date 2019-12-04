@@ -13,7 +13,7 @@ Want to contribute? Follow [如何使用github实现团队共创](https://www.ji
 
 # My Blog
 
-2019-11-19 [Shell Script - Basic](_posts/2019-11-19-00.md)
+2019-11-19 [Shell Script - Basic](_posts/2019-11-19-01.md)
 
 2019-11-14 [Usage of `.bashrc`, `.bash_alias`, & `.bash_profile`](_posts/2019-11-14-00.md)
 
