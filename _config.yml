@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: TaneRS Home
+description: >- # this means to ignore newlines until "baseurl:"
+  To Record & Share
+theme: jekyll-theme-hacker
+url: "https://tane-rs.github.io"
