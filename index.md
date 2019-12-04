@@ -1,6 +1,3 @@
----
-layout: home
----
 
 [Simple Life](https://tane-rs.github.io/simple-life/) | 
 [Build a Studio](https://tane-rs.github.io/build-a-studio/) | 
