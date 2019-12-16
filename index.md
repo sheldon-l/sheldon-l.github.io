@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 
 [Simple Life](https://tane-rs.github.io/simple-life/) | 
 [Build a Studio](https://tane-rs.github.io/build-a-studio/) | 
@@ -20,6 +13,8 @@ Want to contribute? Follow [如何使用github实现团队共创](https://www.ji
 ---
 
 # My Blog
+
+2019-12-16 [When Got a New Phone ...](_posts/2019-12-16-00.md)
 
 2019-11-19 [Shell Script - Basic](_posts/2019-11-19-01.md)
 

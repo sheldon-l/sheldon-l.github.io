@@ -65,11 +65,13 @@ updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
+[BACK TO HOME](https://tane-rs.github.io)
+
 {% for tag in page.tags %}
   {{ tag }}
 {% endfor %}
 
-[BACK TO HOME](https://tane-rs.github.io)
+
 
 ```
 
