@@ -14,11 +14,11 @@ Want to contribute? Follow [如何使用github实现团队共创](https://www.ji
 
 # My Blog
 
-2019-12-17 [Get Google Account without Phone Number](_posts/2019-12-17-00.md)
+2019-12-17 [Get Google Account without Phone Number](_posts/2019-12-17-01.md)
 
 2019-12-17 [Tools For Android](_posts/2019-12-17-00.md)
 
-2019-12-16 [When Got a New Phone ...](_posts/2019-12-16-00.md)
+2019-12-16 [When Got a New Android ...](_posts/2019-12-16-00.md)
 
 2019-12-05 [My .vimrc](_posts/2019-12-05-00.md)
 
