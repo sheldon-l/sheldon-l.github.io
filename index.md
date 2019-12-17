@@ -1,18 +1,20 @@
 
-[Simple Life](https://tane-rs.github.io/simple-life/) | 
-[Build a Studio](https://tane-rs.github.io/build-a-studio/) | 
-[Road to Data Science](https://tane-rs.github.io/road-to-data-science/) | 
+[Simple Life](https://tane-rs.github.io/simple-life/) |
+[Build a Studio](https://tane-rs.github.io/build-a-studio/) |
+[Road to Data Science](https://tane-rs.github.io/road-to-data-science/) |
 [About](about.md)
 
 # Welcome
 Hello, world!
 
 Want to contribute? Follow [如何使用github实现团队共创](https://www.jianshu.com/p/ab7c81414277).
-    
+
 
 ---
 
 # My Blog
+
+2019-12-17 [Get Google Account without Phone Number](_posts/2019-12-17-00.md)
 
 2019-12-17 [Tools For Android](_posts/2019-12-17-00.md)
 
@@ -59,4 +61,3 @@ Want to contribute? Follow [如何使用github实现团队共创](https://www.ji
 2019-09-14 [Installation of MySQL on Linux](_posts/2019-09-14-01.md)
 
 2019-09-14 [Installation of VirtualBox on Ubuntu Desktop](_posts/2019-09-14-00.md)
-
