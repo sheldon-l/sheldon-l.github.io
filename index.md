@@ -14,9 +14,15 @@ Want to contribute? Follow [如何使用github实现团队共创](https://www.ji
 
 # My Blog
 
+2020-01-10 [Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
+
+2020-01-10 [Installation and Running Postgresql along with Django](_posts/2020-01-10-00.md)
+
 2019-12-17 [Get Google Account without Phone Number](_posts/2019-12-17-01.md)
 
 2019-12-17 [Tools For Android](_posts/2019-12-17-00.md)
+
+2019-12-16 [Installation of Node.js and vue.js on Ubuntu](_posts/2019-12-16-01.md)
 
 2019-12-16 [When Got a New Android ...](_posts/2019-12-16-00.md)
 
