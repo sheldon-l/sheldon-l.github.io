@@ -14,7 +14,7 @@ Want to contribute? Follow [如何使用github实现团队共创](https://www.ji
 
 # My Blog
 
-2020-01-20 [Quip Usage for Cooperation](_posts/2020-01-20-00md)
+2020-01-20 [Quip Usage for Cooperation](_posts/2020-01-20-00.md)
 
 2020-01-13 [Settings and Commponents of a Django Project](_posts/2020-01-13-00.md)
 
