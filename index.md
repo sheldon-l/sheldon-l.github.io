@@ -1,4 +1,3 @@
-
 [Simple Life](https://tane-rs.github.io/simple-life/) |
 [Build a Studio](https://tane-rs.github.io/build-a-studio/) |
 [Road to Data Science](https://tane-rs.github.io/road-to-data-science/) |
@@ -9,18 +8,37 @@ Hello, world!
 
 Want to contribute? Follow [如何使用github实现团队共创](https://www.jianshu.com/p/ab7c81414277).
 
-
 ---
 
 # My Blog
 
+2020-02-12 [Django 4 - Adding HTML Content to Django](https://www.dj4e.com/assn/dj4e_html.md)
+
+2020-02-11 [The World's Most Simplest Browser and Server  in Python](_posts/2020-02-11-01.md)
+
+2020-02-11 [Django 3 - Start Django on PythonAnywhere](_posts/2020-02-11-00.md)
+
+2020-02-10 [Web3py 6 - Create Account without Metamask](_posts/2020-02-10-03.md)
+
+2020-02-10 [Web3py 5 - Use Ethereum Blockchain With Python](_posts/2020-02-10-02.md)
+
+2020-02-10 [Web3py 4 - Build Ethereum Dapps and Create Smart Contract](_posts/2020-02-10-01.md)
+
+2020-02-10 [Web3py 3 - Smart Contract](_posts/2020-02-10-00.md)
+
+2020-02-09 [Web3py 2 - Send Cryptocurrency](_posts/2020-02-09-02.md)
+
+2020-02-09 [Web3py 1 - Start a Blockchain](_posts/2020-02-09-01.md)
+
+2020-02-09 [Dapp 1 - Start a Decenterized App](_posts/2020-02-09-00.md)
+
+2020-01-28 [Install MacOS in VirtualBox](_posts/2020-01-28-00.md)
+
 2020-01-20 [Quip Usage for Cooperation](_posts/2020-01-20-00.md)
 
-2020-01-13 [Settings and Commponents of a Django Project](_posts/2020-01-13-00.md)
+2020-01-10 [Django 2 - Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
 
-2020-01-10 [Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
-
-2020-01-10 [Installation and Running Postgresql along with Django](_posts/2020-01-10-00.md)
+2020-01-10 [Django 1 - Install Postgres along with Django](_posts/2020-01-10-00.md)
 
 2019-12-17 [Get Google Account without Phone Number](_posts/2019-12-17-01.md)
 
