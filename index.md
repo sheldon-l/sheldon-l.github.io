@@ -38,13 +38,13 @@
 
 2019-12-16 [Android 2 - When Got a New Android ...](_posts/2019-12-16-00.md)
 
-2019-12-05 [Linux 11 - My .vimrc](_posts/2019-12-05-00.md)
+2019-12-05 [Shell 3 - My .vimrc](_posts/2019-12-05-00.md)
 
 2019-11-22 [Python 3 - To Be a Python Full Stack Developer](_posts/2019-11-22-00.md)
 
-2019-11-19 [Linux 10 - Shell Script - Basic](_posts/2019-11-19-01.md)
+2019-11-19 [Shell 2 - Shell Script - Basic](_posts/2019-11-19-01.md)
 
-2019-11-14 [Linux 9 - Usage of `.bashrc`, `.bash_alias`, & `.bash_profile`](_posts/2019-11-14-00.md)
+2019-11-14 [Shell 1 - Usage of `.bashrc`, `.bash_alias`, & `.bash_profile`](_posts/2019-11-14-00.md)
 
 2019-11-12 [Android 1 - Usage of Non Root Android](_posts/2019-11-12-01.md)
 
