@@ -6,7 +6,6 @@
 
 # My Blog
 
-
 2020-02-11 [Python 4 - The World's Most Simplest Browser and Server  in Python](_posts/2020-02-11-01.md)
 
 2020-02-11 [Django 3 - Start Django on PythonAnywhere](_posts/2020-02-11-00.md)
@@ -67,11 +66,11 @@
 
 2019-10-17 [Linux 4 - Add and Enable a Repo Source in Debian-liked Sys (if got 'not signed' ERROR) - Take Wine Installation as an Example](_posts/2019-10-17-00.md)
 
-2019-09-19 [V2ray 2 - Installation and Update of V2ray for Client](_posts/2019-09-19-00.md)
+2019-09-19 [V2ray 2 - V2ray for Client](_posts/2019-09-19-00.md)
 
 2019-09-18 [Python 2 - Installation of Anaconda on Debian-liked Sys](_posts/2019-09-18-00.md)
 
-2019-09-16 [V2ray 1 - Installation and Update of V2ray on Debian Server](_posts/2019-09-16-01.md)
+2019-09-16 [V2ray 1 - V2ray for Server](_posts/2019-09-16-01.md)
 
 2019-09-16 [Linux 3 - Postinstallation Setup of Debian Server](_posts/2019-09-16-00.md)
 
