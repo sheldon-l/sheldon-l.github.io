@@ -86,4 +86,6 @@
 
 2019-04-01 [Python 1 - Basic Excersices for Data Science](https://github.com/tane-rs/road-to-data-science/tree/gh-pages/py-excersize-ibm)
 
-2019-01-01 [Git 1 - Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
+2019-02-01 [Hold a Blog on GithubPage](_posts/2019-02-01-00.md)
+
+2019-01-01 [Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
