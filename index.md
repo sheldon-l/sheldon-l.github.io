@@ -1,17 +1,10 @@
-[Simple Life](https://tane-rs.github.io/simple-life/) |
-[My Studio](https://tane-rs.github.io/build-a-studio/) |
-[Data Science](https://tane-rs.github.io/road-to-data-science/) |
-
----
-
 # My Blog
-
 
 2020-02-30 [Docker 2 - Doker, Node, Mango](_posts/2020-02-30-00.md)
 
 2020-02-29 [Docker 1 - Get Docker Startet](_posts/2020-02-29-00.md)
 
-2020-02-28 [NodeJS 1 - Try Node.js](_posts/2020-02-28-00.md)
+2020-02-28 [NodeJS 1 - NodeJS Crash Course](_posts/2020-02-28-00.md)
 
 2020-02-27 [JS 1 - Java Script Crash Course](_posts/2020-02-27-00.md)
 
@@ -92,3 +85,5 @@
 2019-09-14 [VBox 1 - Installation of VirtualBox on Ubuntu Desktop](_posts/2019-09-14-00.md)
 
 2019-04-01 [Python 1 - Basic Excersices for Data Science](https://github.com/tane-rs/road-to-data-science/tree/gh-pages/py-excersize-ibm)
+
+2019-01-01 [Git 1 - Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
