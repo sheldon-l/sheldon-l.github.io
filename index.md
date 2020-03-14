@@ -50,19 +50,11 @@
 
 2020-01-28 [VBox 3 - Install MacOS in VirtualBox](_posts/2020-01-28-00.md)
 
-2020-01-25 [武汉肺炎](_posts/2020-01-25-00.md)
-
-2020-01-20 [Quip - Quip Usage for Cooperation](_posts/2020-01-20-00.md)
-
 2020-01-10 [Django 2 - Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
 
 2020-01-10 [Django 1 - Install Postgres along with Django](_posts/2020-01-10-00.md)
 
-2019-12-17 [Android 3 - Tools For Android](_posts/2019-12-17-00.md)
-
 2019-12-16 [Developer 1 - Installation of Node.js and vue.js on Ubuntu](_posts/2019-12-16-01.md)
-
-2019-12-16 [Android 2 - When Got a New Android ...](_posts/2019-12-16-00.md)
 
 2019-12-05 [Shell 3 - My .vimrc](_posts/2019-12-05-00.md)
 
@@ -71,8 +63,6 @@
 2019-11-19 [Shell 2 - Basic Shell Script](_posts/2019-11-19-01.md)
 
 2019-11-14 [Shell 1 - Usage of `.bashrc`, `.bash_alias`, & `.bash_profile`](_posts/2019-11-14-00.md)
-
-2019-11-12 [Android 1 - Usage of Non Root Android](_posts/2019-11-12-01.md)
 
 2019-11-10 [Linux 10 - Connect Linux and Android through Termux with SSH](_posts/2019-11-10-00.md)
 
