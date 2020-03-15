@@ -1,4 +1,10 @@
+[Road to Data Science](https://github.com/tane-rs/road-to-data-science) | [My Cisco Cert](https://tane-rs.github.io/my-cisco-cert)
+
 # My Blog
+
+2020-03-16 [Python 6 - Python Twitter Bot That Auto Likes](_posts/2020-03-16-00.md)
+
+2020-03-15 [Python 5 - Build A Twitter Bot With Python That Gets You Followers](_posts/2020-03-15-00.md)
 
 2020-03-14 [ReactJS 2 - Build a Recipe App With React](_posts/2020-03-14-00.md)
 
@@ -78,8 +84,6 @@
 
 2019-10-23 [Hardware 1 - Hackintosh List](_posts/2019-10-23-00.md)
 
-2019-10-19 [Cisco 1 - How to Install Cisco Packet Tracer 7.2.2 on Ubuntu 18](_posts/2019-10-19-00.md)
-
 2019-10-17 [Linux 6 - Postinstallation setup of Debian-liked Clinent](_posts/2019-10-17-02.md)
 
 2019-10-17 [Linux 5 - Installation of Ubuntu along with Win10 (Daul Hard Drive)](_posts/2019-10-17-01.md)
@@ -99,8 +103,6 @@
 2019-09-14 [Linux 1 - Installation of MySQL on Linux](_posts/2019-09-14-01.md)
 
 2019-09-14 [VBox 1 - Installation of VirtualBox on Ubuntu Desktop](_posts/2019-09-14-00.md)
-
-2019-04-01 [Python 1 - Basic Excersices for Data Science](https://github.com/tane-rs/road-to-data-science/tree/gh-pages/py-excersize-ibm)
 
 2019-02-01 [Hold a Blog on GithubPage](_posts/2019-02-01-00.md)
 
