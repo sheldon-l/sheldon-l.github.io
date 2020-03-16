@@ -26,10 +26,14 @@
       body {
         font-size: large;
       }
+      #header {
+        background-color: ;
+      }
       nav {
         max-width: 960px; 
         margin: 0 auto;
         padding: 0 auto;
+        position: fixed;
       }
       #navbarColor02 {
         display: flex;
@@ -66,7 +70,7 @@
   </head>
 
   <body>
-    <div id="header">
+
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="https://github.com/tane-rs/"><i class="fab fa-github-alt 3x"></i> TaneRS </a>
   
@@ -89,7 +93,7 @@
               <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyCiscoCert </a>
             </li>
           </ul>
-        </div>
+
   
         {% if site.show_downloads %}
           <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
