@@ -1,11 +1,12 @@
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <nav>
   <div class="nav-wrapper">
     <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-      <span class="icon"></span>View on GitHub
+      <span class="icon"><i class="fab fa-github-alt"></i></span>View on GitHub
     </a>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
       <a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
