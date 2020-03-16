@@ -124,8 +124,8 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.4;
+  font-family: Roboto;
+  line-height: 2;
 }
 
 a, u {
