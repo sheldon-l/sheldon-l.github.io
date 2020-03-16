@@ -1,9 +1,3 @@
----
-output: 
-  html_document:
-    css: ./index.css
----
-
 [Road to Data Science](https://github.com/tane-rs/road-to-data-science) | [My Cisco Cert](https://tane-rs.github.io/my-cisco-cert)
 
 ------
@@ -96,7 +90,7 @@ output:
 
 2019-10-17 [Linux 5 - Installation of Ubuntu along with Win10 (Daul Hard Drive)](_posts/2019-10-17-01.md)
 
-2019-10-17 [Linux 4 - Add and Enable a Repo Source in Debian-liked Sys (if got 'not signed' ERROR) - Take Wine Installation as an Example](_posts/2019-10-17-00.md)
+2019-10-17 [Linux 4 - Add and Enable a Repo Source in Debian-liked Sys (if got 'not signed' ERROR)](_posts/2019-10-17-00.md)
 
 2019-09-19 [V2ray 2 - V2ray for Client](_posts/2019-09-19-00.md)
 
@@ -115,3 +109,9 @@ output:
 2019-02-01 [Hold a Blog on GithubPage](_posts/2019-02-01-00.md)
 
 2019-01-01 [Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
+
+<style>
+a, u {
+  text-decoration: none;
+}
+</style>
