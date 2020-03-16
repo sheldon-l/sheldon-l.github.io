@@ -62,7 +62,7 @@
         border: 0;
         border-bottom: 1px dotted #B58900;
       }
-      table {
+      .author-date > tr {
         border: 0;
       }
     </style>
@@ -109,7 +109,7 @@
 
         <h2>{{ page.title }}</h2>
 
-        <table>
+        <table class="author-date">
           <tr>
             {% if page.author %}
               <td>By {{ page.author }}</td>
@@ -127,7 +127,8 @@
       </section>
       <hr>
       <footer>
-        <span class="credits left">Pages maintained by <a href="https://www.linkedin.com/in/xiadanli/"><i class="fab fa-linkedin"></i> Sheldon</a> with ❤️.</span>
+        <span class="credits left">Pages are maintained by <a href="https://www.linkedin.com/in/xiadanli/"><i class="fab fa-linkedin"></i> Sheldon</a> with ❤️.</span>
+        <span class="credits left">Pages are powered by:</span>
       </footer>
     </div>
 
