@@ -14,12 +14,6 @@
   </div>
 </nav>
 
-<style>
-  h1 {
-
-  }
-</style>
-
 ## My Blog
 
 2020-03-16 [Python 6 - Python Twitter Bot That Auto Likes](_posts/2020-03-16-00.md)
