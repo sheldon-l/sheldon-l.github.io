@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+</head>
+
+
 [Road to Data Science](https://github.com/tane-rs/road-to-data-science) | [My Cisco Cert](https://tane-rs.github.io/my-cisco-cert)
 
 ------
