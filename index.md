@@ -127,6 +127,7 @@
 body {
   font-family: Roboto;
   line-height: 2;
+  font-size: 16;
 }
 
 a, u {
