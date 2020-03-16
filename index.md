@@ -116,6 +116,17 @@
 2019-01-01 [Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
 
 <style>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
 a, u {
   text-decoration: none;
 }
