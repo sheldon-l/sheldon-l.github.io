@@ -30,10 +30,20 @@
         max-width: 960px; 
         margin: 0 auto;
       }
-      h1 h2 {
+      h1 {
         padding: 2px;
         color: #839496;
         font-size: medium;
+      }
+      h2 {
+        padding: 2px;
+        color: #839496;
+        font-size: medium;
+      }
+      hr {
+        display: block;
+        margin: 0.5em auto;
+        border-width: 1px;
       }
     </style>
   </head>
@@ -66,8 +76,6 @@
             </li>
           </ul>
         </div>
-
-
 
         {% if site.show_downloads %}
           <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
@@ -105,6 +113,9 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <hr>
+
     <footer>
       <span class="credits left">Project maintained by <a href="https://www.linkedin.com/in/xiadanli/"><i class="fab fa-linkedin"></i> Sheldon</a> with ❤️.</span>
     </footer>
