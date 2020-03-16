@@ -3,3 +3,18 @@
 
 @import "{{ site.theme }}";
 
+.main {
+  padding:auto;
+  margin:auto;
+  text-align:centre;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
