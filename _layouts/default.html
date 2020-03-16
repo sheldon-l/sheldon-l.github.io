@@ -25,14 +25,14 @@
         font-size: large;
       }
       nav {
-        max-width: 960px; 
         margin: 0 auto;
         padding: 0 auto;
+        align-items: center;
       }
-      #navbarColor02 {
-        display: flex;
-        float: right;
+      .container {
+        align-items: center;
       }
+      
       .wrapper {
         max-width: 960px; 
         margin: 0 auto;
@@ -71,28 +71,25 @@
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="https://github.com/tane-rs/"><i class="fab fa-github-alt 3x"></i> TaneRS </a>
-  
-        <a class="btn btn-primary" href="{{ site.github.repository_url }}" role="button">
-          View on Github
-        </a>
-
+        <a class="btn btn-primary" href="{{ site.github.repository_url }}" role="button">View on Github</a>
         <div class="flex-grow-1"></div>
-  
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarColor02">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="https://tane-rs.github.io/"> Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> MyDataScience </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyCiscoCert </a>
-            </li>
-          </ul>
+          <div class="container">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="https://tane-rs.github.io/"> Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> MyDataScience </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyCiscoCert </a>
+              </li>
+            </ul>
+          </div>
         </div>
   
         {% if site.show_downloads %}
@@ -105,7 +102,6 @@
 
 
     <div class="wrapper">
-
       <section>
         <div id="title">
           <div class="jumbotron">
@@ -113,17 +109,12 @@
             <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
           </div>
         </div>
-
         {{ content }}
-
       </section>
-
       <hr>
-
       <footer>
         <span class="credits left">Pages maintained by <a href="https://www.linkedin.com/in/xiadanli/"><i class="fab fa-linkedin"></i> Sheldon</a> with ❤️.</span>
       </footer>
-
     </div>
 
     {% if site.google_analytics %}
