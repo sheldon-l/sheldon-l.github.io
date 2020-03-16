@@ -14,7 +14,7 @@
         <a class="nav-link" href="#"> Home <span class="sr-only"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/tane-rs/road-to-data-science"> Road to Data Science </a>
+        <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> Road to Data Science </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> Getting My Cisco Cert </a>
