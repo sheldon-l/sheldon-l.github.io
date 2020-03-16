@@ -4,28 +4,22 @@
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <button type="button" class="btn btn-success btn-lg">
+  <button type="button" class="btn btn-success">
     <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-      <i class="fab fa-github-alt"></i> {" "}View on GitHub
+      <i class="fab fa-github-alt"></i> View on GitHub
     </a>
   </button>
   <div class="flex-grow-1"></div>
   <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <button type="button" class="btn btn-success">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </button>
+        <a class="nav-link" href="#">Home <span class="sr-only"></span></a>
       </li>
       <li class="nav-item">
-        <button type="button" class="btn btn-success">
-          <a class="nav-link" href="https://github.com/tane-rs/road-to-data-science">Road to Data Science</a>
-        </button>
+        <a class="nav-link" href="https://github.com/tane-rs/road-to-data-science">Road to Data Science</a>
       </li>
       <li class="nav-item">
-        <button type="button" class="btn btn-success">
-          <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert">Getting My Cisco Cert</a>
-        </button>
+        <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert">Getting My Cisco Cert</a>
       </li>
     </ul>
   </div>
