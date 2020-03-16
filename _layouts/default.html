@@ -13,6 +13,33 @@
 
     <link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+
+    <style>
+            * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-size: large;
+      }
+      .jumbotron{
+        max-width: 960px; 
+        margin: 0 auto;
+      }
+      .wrapper {
+        max-width: 960px; 
+        margin: 0 auto;
+      }
+      nav {
+        max-width: 960px; 
+        margin: 0 auto;
+      }
+      h1 h2 {
+        padding: 2px;
+        color: #839496;
+        font-size: medium;
+      }
+    </style>
   </head>
 
   <body>
@@ -38,8 +65,8 @@
           </ul>
         </div>
 
-        <a class="btn btn-primary btn-lg" href="{{ site.github.repository_url }}" role="button">
-          <i class="fab fa-github-alt 2x"></i> View on Github
+        <a class="btn btn-primary" href="{{ site.github.repository_url }}" role="button">
+          View on Github
         </a>
 
         {% if site.show_downloads %}
