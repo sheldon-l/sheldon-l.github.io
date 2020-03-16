@@ -1,7 +1,6 @@
 <head>
   <link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-  <link rel="stylesheet" href="style.css">
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
