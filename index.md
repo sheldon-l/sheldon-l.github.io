@@ -13,8 +13,8 @@
 <nav>
   <div class="nav-wrapper">
     <section id="downloads">
-      <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github"><span class="icon">
-        </span>View on GitHub
+      <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
+      <span class="icon">View on GitHub</span>
       </a>
     </section>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
