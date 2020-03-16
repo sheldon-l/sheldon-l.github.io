@@ -3,8 +3,9 @@
 </head>
 
 
-<a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a> | 
-<a href="https://tane-rs.github.io/my-cisco-cert" class="btn">My Cisco Cert</a>()
+<a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
+<div class="flex-grow-1"></div>
+<a href="https://tane-rs.github.io/my-cisco-cert" class="btn">My Cisco Cert</a>
 
 ------
 
