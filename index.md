@@ -2,12 +2,6 @@
 tipue_search_active: true
 ---
 
-
-
-## My Blog
-
-<hr>
-
 2020-03-16 [Python 6 - Python Twitter Bot That Auto Likes](_posts/2020-03-16-00.md)
 
 2020-03-15 [Python 5 - Build A Twitter Bot With Python That Gets You Followers](_posts/2020-03-15-00.md)

@@ -108,8 +108,13 @@
 
         <table>
           <tr>
-            <td>By {{page.author}}</td>
-            <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
+            {% if page.author %}
+              <td>By {{ page.author }}</td>
+            {% end if %}
+            {% if page.published_at %}
+              <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
+            {% end if %}
+            {% if page.updated_at %}
             <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
           </tr>
         </table>
