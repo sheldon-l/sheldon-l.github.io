@@ -2,14 +2,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
-
-<header>
-  <div class="container">
-    <h1>TaneRS Home</h1>
-    <p>To Record &amp; Share</p>
-  </div>
-</header>
-
 <nav>
   <div class="nav-wrapper">
     <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
@@ -22,7 +14,13 @@
   </div>
 </nav>
 
-# My Blog
+<style>
+  h1 {
+
+  }
+</style>
+
+## My Blog
 
 2020-03-16 [Python 6 - Python Twitter Bot That Auto Likes](_posts/2020-03-16-00.md)
 
