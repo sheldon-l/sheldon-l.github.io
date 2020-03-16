@@ -1,5 +1,7 @@
 [Road to Data Science](https://github.com/tane-rs/road-to-data-science) | [My Cisco Cert](https://tane-rs.github.io/my-cisco-cert)
 
+------
+
 # My Blog
 
 2020-03-16 [Python 6 - Python Twitter Bot That Auto Likes](_posts/2020-03-16-00.md)
