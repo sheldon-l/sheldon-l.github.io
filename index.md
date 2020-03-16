@@ -4,10 +4,10 @@
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-      <i class="fab fa-github-alt"></i> View on GitHub
-    </a>
-  <div class="flex-grow-1"></div>
+  <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
+    <i class="fab fa-github-alt"></i> View on GitHub
+  </a>
+
   <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
@@ -15,6 +15,9 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> Road to Data Science </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> Getting My Cisco Cert </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> Getting My Cisco Cert </a>
