@@ -12,11 +12,9 @@
 
 <nav>
   <div class="nav-wrapper">
-    <section id="downloads">
-      <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
+    <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
       <span class="icon">View on GitHub</span>
-      </a>
-    </section>
+    </a>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
       <a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
       <a href="https://tane-rs.github.io/my-cisco-cert" class="btn">My Cisco Cert</a>
