@@ -43,22 +43,27 @@
       <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
       <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
       <hr class="my-4">
+
       {% if site.github.is_project_page %}
       <a class="btn btn-primary btn-lg" href="{{ site.github.repository_url }}" role="button">
         <i class="fab fa-github-alt 2x"></i> View on Github
       </a>
       {% endif %}
+      
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-      
+
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a href="https://github.com/tane-rs/"><i class="fab fa-github-alt 2x"></i> Github </a>
+
         <div class="flex-grow-1"></div>
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" 
           aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation"
         ><span class="navbar-toggler-icon"></span></button>
+
         <div class="collapse navbar-collapse" id="navbarColor02">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">

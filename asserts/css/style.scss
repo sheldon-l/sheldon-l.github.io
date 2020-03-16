@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 
+.jumbotron {
+  max-width: 720px; 
+  margin: 0 auto;
+}
