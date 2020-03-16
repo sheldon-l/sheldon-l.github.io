@@ -1,6 +1,7 @@
 ---
 tipue_search_active: true
 ---
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a href="https://github.com/tane-rs/"><i class="fab fa-github-alt 2x"></i> Github </a>
   <!-- <div class="flex-grow-1"></div> -->
