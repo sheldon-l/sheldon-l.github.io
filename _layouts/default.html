@@ -62,10 +62,10 @@
         border: 0;
         border-bottom: 1px dotted #B58900;
       }
-      table {
+      .author-date table {
         text-align: center;
       }
-      .author-date > tr {
+      .author-date tr, .author-date table {
         border: 0;
       }
     </style>
@@ -112,19 +112,22 @@
 
         <h2>{{ page.title }}</h2>
 
-        <table class="author-date">
-          <tr>
-            {% if page.author %}
-              <td>By {{ page.author }}</td>
-            {% end if %}
-            {% if page.published_at %}
-              <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
-            {% end if %}
-            {% if page.updated_at %}
-              <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
-            {% end if %}
-          </tr>
-        </table>
+        <div class="author-date">
+          <table>
+            <tr>
+              {% if page.author %}
+                <td>By {{ page.author }}</td>
+              {% end if %}
+              {% if page.published_at %}
+                <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
+              {% end if %}
+              {% if page.updated_at %}
+                <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
+              {% end if %}
+            </tr>
+          </table>
+        </div>
+
 
         {{ content }}
 
