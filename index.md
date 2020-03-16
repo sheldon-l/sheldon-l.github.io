@@ -3,17 +3,6 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
   <link rel="stylesheet" href="style.css">
 </head>
-<nav>
-  <div class="nav-wrapper">
-    <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-      <i class="fab fa-github-alt"></i>View on GitHub
-    </a>
-    <ul id="nav-mobile" class="right hide-on-med-and-down">
-      <a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
-      <a href="https://tane-rs.github.io/my-cisco-cert" class="btn">My Cisco Cert</a>
-    </ul>
-  </div>
-</nav>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
