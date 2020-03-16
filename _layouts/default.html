@@ -101,10 +101,10 @@
     </nav>
 
     <!-- <div id="title"> -->
-      <div class="jumbotron">
-        <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
-      </div>
+    <div class="jumbotron">
+      <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
+      <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
+    </div>
     <!-- </div> -->
 
     <div class="wrapper">
@@ -125,10 +125,9 @@
             </tr>
           </table>
         </div>
-
         {{ content }}
-
       </section>
+
       <hr>
       <footer>
         <span class="credits left">Pages are maintained by <a href="https://www.linkedin.com/in/xiadanli/"><i class="fab fa-linkedin"></i> Sheldon</a> with ❤️.</span>
