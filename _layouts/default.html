@@ -30,13 +30,13 @@
         border-bottom: 1px solid #B58900;
       }
       .navbar-collapse.in {
-        display: block !important; /* keep collaps open */
+        display: block !important; /* keep collaps open till click */
         left: auto !important;
         right: 0px;
       }
       .wrapper {
         max-width: 960px; 
-        margin-top: 75px;
+        margin-top: 72px;
         margin-bottom: 0px;
         padding: 0 auto;
       }
@@ -55,7 +55,7 @@
       h1, h2, h3, h4, h5, h6 {
         color: #839496;
       }
-      h1 {
+      h1, h2 {
         text-align: center;
       }
       hr {
@@ -104,6 +104,13 @@
             <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
           </div>
         </div>
+
+        # {{page.title}}
+
+        by {{page.author}} |
+        published at {{page.published_at | date: "%Y-%m-%d"}} |
+        updated at {{ page.updated_at | date: "%Y-%m-%d" }}
+
         {{ content }}
       </section>
       <hr>
