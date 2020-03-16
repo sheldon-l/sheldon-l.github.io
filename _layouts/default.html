@@ -14,8 +14,6 @@
     <link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
@@ -72,7 +70,7 @@
 
   <body>
 
-    <nav class="navbar navbar-fixed-top navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="https://github.com/tane-rs/"><i class="fab fa-github-alt 3x"></i> TaneRS </a>
   
@@ -109,10 +107,9 @@
 
 
     <div class="wrapper">
-
       <section>
         <div id="title">
-          <div class="jumbotron">
+          <div class="jumbotron"></div>
             <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
             <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
           </div>
