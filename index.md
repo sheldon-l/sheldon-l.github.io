@@ -5,12 +5,10 @@
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-    <i class="fab fa-github-alt"></i> View on GitHub
-  </a>
+  <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">View on GitHub</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02"
     aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon"><i class="fab fa-github-alt"></i></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarColor02">
