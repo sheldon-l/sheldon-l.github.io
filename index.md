@@ -1,3 +1,9 @@
+---
+output: 
+  html_document:
+    css: ./index.css
+---
+
 [Road to Data Science](https://github.com/tane-rs/road-to-data-science) | [My Cisco Cert](https://tane-rs.github.io/my-cisco-cert)
 
 ------
@@ -64,7 +70,7 @@
 
 2019-12-16 [Developer 1 - Installation of Node.js and vue.js on Ubuntu](_posts/2019-12-16-01.md)
 
-2019-12-05 [Shell 3 - My .vimrc](_posts/2019-12-05-00.md)
+2019-12-05 [Shell 3 - My `.vimrc`](_posts/2019-12-05-00.md)
 
 2019-11-22 [Python 3 - To Be a Python Full Stack Developer](_posts/2019-11-22-00.md)
 
@@ -109,9 +115,3 @@
 2019-02-01 [Hold a Blog on GithubPage](_posts/2019-02-01-00.md)
 
 2019-01-01 [Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
-
-<style>
-a, u {
-  text-decoration: none;
-}
-</style>
