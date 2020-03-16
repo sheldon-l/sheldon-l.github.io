@@ -5,7 +5,7 @@
 <nav>
   <div class="nav-wrapper">
     <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-      <span class="icon">View on GitHub</span>
+      <span class="icon"></span>View on GitHub
     </a>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
       <a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
