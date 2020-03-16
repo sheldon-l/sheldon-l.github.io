@@ -1,5 +1,6 @@
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <header>
@@ -22,9 +23,6 @@
     </ul>
   </div>
 </nav>
-<div class="nav">
-
-</div>
 
 # My Blog
 
@@ -133,25 +131,3 @@
 2019-02-01 [Hold a Blog on GithubPage](_posts/2019-02-01-00.md)
 
 2019-01-01 [Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
-
-<style>
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font-family: Roboto;
-  line-height: 2;
-  font-size: 16;
-}
-
-a, u {
-  text-decoration: none;
-}
-
-.container {
-
-}
-</style>
