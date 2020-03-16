@@ -4,11 +4,9 @@
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <button type="button" class="btn btn-success">
     <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
       <i class="fab fa-github-alt"></i> View on GitHub
     </a>
-  </button>
   <div class="flex-grow-1"></div>
   <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
