@@ -54,7 +54,7 @@
 
 2020-02-09 [Web3py 1 - Start a Blockchain](_posts/2020-02-09-01.md)
 
-2020-02-09 [Dapp 1 - Start a Decenterized App](_posts/2020-02-09-00.md)
+2020-02-09 [Dapp 1 - Start a Decenterized App](_posts/2020-03-17-00.md)
 
 2020-01-28 [VBox 3 - Install MacOS in VirtualBox](_posts/2020-01-28-00.md)
 
