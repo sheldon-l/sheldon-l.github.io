@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     <link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
@@ -104,10 +105,13 @@
 
 
     <div class="wrapper">
+
       <section>
-        <div class="jumbotron"></div>
+        <div id="title">
+          <div class="jumbotron">
             <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
             <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
+          </div>
         </div>
 
         {{ content }}
