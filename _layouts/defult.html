@@ -16,50 +16,53 @@
   </head>
 
   <body>
-      <div id="header">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a class="navbar-brand" href="https://github.com/tane-rs/"><i class="fab fa-github-alt 3x"></i> TaneRS </a>
-  
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-        
-          <div class="collapse navbar-collapse" id="navbarColor02">
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                <a class="nav-link" href="https://tane-rs.github.io/"> Home <span class="sr-only">(current)</span></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> MyDataScience </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyCiscoCert </a>
-              </li>
-            </ul>
-          </div>
+    <div id="header">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="https://github.com/tane-rs/"><i class="fab fa-github-alt 3x"></i> TaneRS </a>
 
-          <div class="flex-grow-1"></div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarColor02">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="https://tane-rs.github.io/"> Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> MyDataScience </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyCiscoCert </a>
+            </li>
+          </ul>
+        </div>
 
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+        <div class="flex-grow-1"></div>
 
-          <a class="btn btn-primary btn-lg" href="{{ site.github.repository_url }}" role="button">
-            <i class="fab fa-github-alt 2x"></i> View on Github
-          </a>
+        <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
 
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
-        </nav>
-      </div><!-- end header -->
+        <a class="btn btn-primary btn-lg" href="{{ site.github.repository_url }}" role="button">
+          <i class="fab fa-github-alt 2x"></i> View on Github
+        </a>
+
+        {% if site.show_downloads %}
+          <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+          <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        {% endif %}
+      </nav>
+    </div>
+    <!-- end header -->
 
     <div class="wrapper">
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <div class="jumbotron">
+            <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
+            <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
+          </div>
           <hr>
         </div>
 
