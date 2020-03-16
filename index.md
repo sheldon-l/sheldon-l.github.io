@@ -4,23 +4,20 @@
 </head>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github">
-    <i class="fab fa-github-alt"></i> View on GitHub
-  </a>
-
+  <a href="https://github.com/tane-rs/"><i class="fab fa-github-alt 2x"></i> Github </a>
   <div class="collapse navbar-collapse" id="navbarColor02">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#"> Home <span class="sr-only"></span></a>
+        <a class="nav-link" href="https://tane-rs.github.io/"> Home <span class="sr-only"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> Road to Data Science </a>
+        <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> MyDataScience </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> Getting My Cisco Cert </a>
+        <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyCiscoCert </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> Getting My Cisco Cert </a>
+        <a class="nav-link" href="https://tane-rs.github.io/my-cisco-cert"> MyProjects </a>
       </li>
     </ul>
   </div>
