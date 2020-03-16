@@ -2,12 +2,29 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 </head>
 
+<header>
+  <div class="container">
+    <h1>TaneRS Home</h1>
+    <p>To Record &amp; Share</p>
+  </div>
+</header>
 
-<a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
-<div class="flex-grow-1"></div>
-<a href="https://tane-rs.github.io/my-cisco-cert" class="btn">My Cisco Cert</a>
+<nav>
+  <div class="nav-wrapper">
+    <section id="downloads">
+      <a href="https://github.com/tane-rs/tane-rs.github.io" class="btn btn-github"><span class="icon">
+        </span>View on GitHub
+      </a>
+    </section>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <a href="https://github.com/tane-rs/road-to-data-science" class="btn">Road to Data Science</a>
+      <a href="https://tane-rs.github.io/my-cisco-cert" class="btn">My Cisco Cert</a>
+    </ul>
+  </div>
+</nav>
+<div class="nav">
 
-------
+</div>
 
 # My Blog
 
@@ -132,5 +149,9 @@ body {
 
 a, u {
   text-decoration: none;
+}
+
+.container {
+
 }
 </style>
