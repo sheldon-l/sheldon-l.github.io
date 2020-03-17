@@ -56,7 +56,7 @@ tipue_search_active: true
         }
         /* Site Title Style */
         #title {
-          margin-top: 50px;
+          margin-top: 5px;
           margin-bottom: 0;
           padding: 0 auto;
           text-align: center;
@@ -162,16 +162,6 @@ tipue_search_active: true
       </ul>
       <!-- Push Other Items Right -->
       <div class="flex-grow-1"></div>
-      <!-- Tipue Search Component -->
-      <div class="tipue-search">
-        <form action="{{ page.url | relative_url }}">
-          <div class="tipue_search_right"><input
-            class="form-control mr-sm-2" type="text" placeholder="Search in Blog..." 
-            name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required
-          ></div>
-          <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
-        </form>
-      </div>
       <!-- Toggler Nav Items-->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -193,17 +183,6 @@ tipue_search_active: true
         </ul>
       </div>
     </nav>
-    <!-- Search Result if Searched-->
-    <div class="wrapper">
-      <section>
-        <div id="tipue_search_content"></div>
-        <script>
-          $(document).ready(function() {
-            $('#tipue_search_input').tipuesearch();
-          });
-        </script>
-      </section>
-    </div>
     <!-- Site Title -->
     <div id="title">
       <div class="jumbotron">
