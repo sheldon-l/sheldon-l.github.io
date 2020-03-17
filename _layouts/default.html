@@ -26,6 +26,7 @@ tipue_search_active: true
       <script src="../assets/tipuesearch/tipuesearch_set.js"></script>
       <script src="../assets/tipuesearch/tipuesearch.min.js"></script>
     {% endif %}
+
     <style>
       * {
           margin: 0;
@@ -109,6 +110,9 @@ tipue_search_active: true
           border: 0;
           border-bottom: 1px dotted #B58900;
         }
+        .tipue_search_content_text {
+          color: #839496;
+        }
     </style>
   </head>
 
@@ -119,13 +123,14 @@ tipue_search_active: true
           <a class="nav-link" href="https://tane-rs.github.io/"> Blog <span class="sr-only">(current)</span></a>
         </li>
       </ul>
-      <!-- <div class="tipue-search">
+      <div class="tipue-search">
         <form action="{{ page.url | relative_url }}">
-          <div class="tipue_search_left"><img src="{{ '/assets/tipuesearch/search.png' | relative_url }}" class="tipue_search_icon"></div>
+          <!-- <div class="tipue_search_left"><img src="{{ '/assets/tipuesearch/search.png' | relative_url }}" class="tipue_search_icon"></div> -->
           <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
-          <div style="clear: both;"></div>
+          <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+          <!-- <div style="clear: both;"></div> -->
         </form>
-      </div> -->
+      </div>
       <div class="flex-grow-1"></div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -149,19 +154,19 @@ tipue_search_active: true
       </div>
     </nav>
 
-    <!-- <div id="tipue_search_content"></div>
-    <script>
-    $(document).ready(function() {
-      $('#tipue_search_input').tipuesearch();
-    });
-    </script> -->
-
     <div id="title">
       <div class="jumbotron">
         <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
         <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
       </div>
     </div>
+
+    <div id="tipue_search_content"></div>
+    <script>
+      $(document).ready(function() {
+        $('#tipue_search_input').tipuesearch();
+      });
+    </script>
 
     <div class="wrapper">
       <section>
