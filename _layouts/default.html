@@ -40,49 +40,32 @@ tipue_search_active: true
       nav {
         margin: 0 auto; padding: 0 auto; border-bottom: 1px solid #B58900;
       }
-      button .nav-link{
-        padding: 0 auto;
-      }
-      #navbarColor02 ul {
-        align-items: center;
-      }
+      .navbar-nav{ margin: 0 10px; }              /* current page nav */
+      .navbar-nav li { margin: 0 5px; }           /* current page nav & toggler nav */
+      button .nav-link{ padding: 0 auto; }        /* nav link to search page */
+      #navbarColor02 ul { align-items: center; }  /* toggler button inner */
       .navbar-collapse.in {
-        display: block !important;          /* keep collaps open till click */
-        left: auto !important; right: 0px;  /* keep collaps align right */
+        display: block !important;                /* keep collaps open till click */
+        left: auto !important; right: 0px;        /* keep collaps align right */
       } 
       /* Site Title Style */
-      #title {
-        margin: 1px auto; padding: 0 auto; text-align: center;
-      }
+      #title {  margin: 1px auto; padding: 0 auto; text-align: center; }
       /* Content Wrappers */
-      .wrapper {
-        max-width: 960px; margin: 10px auto; padding: 0 auto; align-items: center;
-      }
-      .wrapper section {
-        max-width: 960px; margin: 0 auto; padding: 0 auto; align-items: center;
-      }
+      .wrapper { max-width: 960px; margin: 10px auto; padding: 0 auto; align-items: center; }
+      .wrapper section { max-width: 960px; margin: 0 auto; padding: 0 auto; align-items: center; }
       /* Page Title */
-      .title {
-        align-items: center;
-      }
+      .title { align-items: center; }
       /* Author-date Table under Title */
-      .title table {
-        width: 720; margin: 20px auto; border-collapse: collapse; table-layout: fixed; border-bottom: 0;
-      }
-      .title tr {
-        border-bottom: 0;
-      }
-      .title td { padding: 0; text-align: center; border-bottom: 0;
-      }
+      .title table { width: 720; margin: 20px auto; border-collapse: collapse; table-layout: fixed; border-bottom: 0; }
+      .title tr { border-bottom: 0; }
+      .title td { padding: 0; text-align: center; border-bottom: 0; }
       @media print {
         .title table { border: 0 !important; }  /* remove border */
         .title tr { border: 0 !important; }
         .title td { border: 0 !important; }
       }
       /* Dividing Line */
-      hr {
-        border: 0; border-bottom: 1px dotted #B58900;
-      }
+      hr { border: 0; border-bottom: 1px dotted #B58900; }
       /* Search Result Style */
       /* .tipue-search form {
         display: inline-block; margin-right:10px;
