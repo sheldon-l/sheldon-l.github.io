@@ -9,15 +9,16 @@ tipue_search_active: true
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 {% seo %}
+    <!-- From Midnight Theme -->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="../assets/js/respond.js"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    
+    <!-- Bootswath CSS, Fontawesome Style, Bootstrap Scripts -->
     <link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
+    <!-- Tipue Search Scripts and Stylesheets -->
     {% if page.tipue_search_active or layout.tipue_search_active %}
       <link rel="stylesheet" href="../assets/tipuesearch/css/normalize.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -36,6 +37,7 @@ tipue_search_active: true
           padding-top: 70 px;
           font-size: large;
         }
+        /* Navbar Style */
         nav {
           margin: 0 auto;
           padding: 0 auto;
@@ -49,6 +51,7 @@ tipue_search_active: true
           left: auto !important;
           right: 0px;
         }
+        /* Site Title Style */
         #title {
           margin-top: 50px;
           margin-bottom: 0;
@@ -58,16 +61,18 @@ tipue_search_active: true
         #title h1 {
           font-size: xx-large;
         }
+        /* Content Wrappers */
         .wrapper {
           max-width: 960px; 
           margin: 10px auto;
           padding: 0 auto;
         }
-        .wrapper section {
+        /* .wrapper section {
           max-width: 960px;
           margin: 0 auto;
           padding: 0 auto;
-        }
+        } */
+        /* Headlines */
         h1, h2, h3, h4, h5, h6 {
           color: #839496;
         }
@@ -77,9 +82,11 @@ tipue_search_active: true
         h3 {
           font-size: large;
         }
+        /* Title */
         .title {
           align-items: center;
         }
+        /* Author-date Table under Title */
         .title table {
           margin: 20px auto;
           border-collapse: collapse;
@@ -106,26 +113,34 @@ tipue_search_active: true
             border: 0 !important;
           }
         }
+        /* Dividing Line */
         hr {
           border: 0;
           border-bottom: 1px dotted #B58900;
+        }
+        /* Search Result Style */
+        .tipue_search_result_count {
+          color: #B58900;
         }
         .tipue_search_content_text {
           color: #839496;
         }
         .tipue_search_content_bold {
-          color: #B58900;
+          color: #D33682;
         }
     </style>
   </head>
 
   <body>
+    <!-- Navbar -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+      <!-- Current Page Nav Button -->
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
           <a class="nav-link" href="https://tane-rs.github.io/"> Blog <span class="sr-only">(current)</span></a>
         </li>
       </ul>
+      <!-- Tipue Search Component -->
       <div class="tipue-search">
         <form action="{{ page.url | relative_url }}">
           <div class="tipue_search_right"><input
@@ -135,13 +150,14 @@ tipue_search_active: true
           <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
         </form>
       </div>
+      <!-- Push Toggler Navbar right -->
       <div class="flex-grow-1"></div>
+      <!-- Toggler Nav Items-->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse flex-grow-0" id="navbarColor02">
         <ul class="navbar-nav mr-auto">
-
           <li class="nav-item">
             <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> DataSci & AI </a>
           </li>
@@ -157,14 +173,7 @@ tipue_search_active: true
         </ul>
       </div>
     </nav>
-
-    <div id="title">
-      <div class="jumbotron">
-        <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
-      </div>
-    </div>
-
+    <!-- Search Result if Searched-->
     <div class="wrapper">
       <div id="tipue_search_content"></div>
       <script>
@@ -173,7 +182,14 @@ tipue_search_active: true
         });
       </script>
     </div>
-
+    <!-- Site Title -->
+    <div id="title">
+      <div class="jumbotron">
+        <h1 class="display-3">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
+        <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
+      </div>
+    </div>
+    <!-- Home, Post, Page, or Content -->
     <div class="wrapper">
       <section>
         {{ content }}
