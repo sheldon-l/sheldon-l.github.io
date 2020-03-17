@@ -56,7 +56,7 @@ tipue_search_active: true
         }
         /* Site Title Style */
         #title {
-          margin-top: 5px;
+          margin-top: 1px;
           margin-bottom: 0;
           padding: 0 auto;
           text-align: center;
@@ -163,11 +163,9 @@ tipue_search_active: true
       <!-- Push Other Items Right -->
       <div class="flex-grow-1"></div>
       <!-- Search URL -->
-      <ul class="nav nav-pills flex-column">
-        <li class="nav-item">
-          <a class="nav-link active" href="./search.html">Search within <b>Blog</b>...</a>
-        </li>
-      </ul>
+      <button type="button" class="btn btn-outline-secondary">
+        <a class="nav-link active" href="./search.html"> Search within <b>Blog</b>... </a>
+      </button>
       <!-- Toggler Nav Items-->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -189,6 +187,7 @@ tipue_search_active: true
         </ul>
       </div>
     </nav>
+
     <!-- Site Title -->
     <div id="title">
       <div class="jumbotron">
@@ -196,6 +195,7 @@ tipue_search_active: true
         <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
       </div>
     </div>
+    
     <!-- Home, Post, Page, or Content -->
     <div class="wrapper">
       <section>
