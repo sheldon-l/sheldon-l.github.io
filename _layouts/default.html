@@ -70,17 +70,24 @@
         border-collapse: collapse;
         table-layout: fixed;
         width: 720;
-        border: 0 !important;
+        border-bottom: 0;
+      }
+      .title tr {
+        border-bottom: 0;
       }
       .title td {
         padding: 0;
         text-align: center;
+        border-bottom: 0;
       }
       @media print {
         .title table {
-          border: 0 !important;
+          border: 0 !important;  /* remove border */
         }
         .title tr {
+          border: 0 !important;
+        }
+        .title td {
           border: 0 !important;
         }
       }
