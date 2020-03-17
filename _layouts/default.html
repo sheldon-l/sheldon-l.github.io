@@ -50,10 +50,10 @@
         padding: 0 auto;
         text-align: center;
       }
-      .titel table {
-        border-collapse:collapse
+      #title h1 {
+        font-size: small;
       }
-      ul {
+      #navbarColor02 ul {
         align-items: center;
       }
       h1, h2, h3, h4, h5, h6 {
@@ -61,6 +61,11 @@
       }
       h1, h2 {
         text-align: center;
+      }
+      .title table {
+        border-collapse: collapse;
+        text-align: center;
+        align-items: center;
       }
       hr {
         border: 0;
@@ -107,17 +112,17 @@
           <h2>{{ page.title }}</h2>
           <table>
             {% if page.author %}
-            <tr>
-              <td>By {{ page.author }}</td>
-              <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
-              <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
-            </tr>
+              <tr>
+                <td>By {{ page.author }}</td>
+                <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
+                <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
+              </tr>
             {% endif %}
           </table>
         </div>
         {{ content }}
-
       </section>
+
       <hr>
       <footer>
         <span class="credits left">Pages maintained by <a href="https://www.linkedin.com/in/xiadanli/"><i class="fab fa-linkedin"></i> Sheldon</a> with ❤️.</span>
