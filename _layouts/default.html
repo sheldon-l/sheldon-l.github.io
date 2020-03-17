@@ -45,9 +45,13 @@
         margin: 0 auto;
         padding: 0 auto;
       }
-      .title {
+      #title {
         margin: 0 auto;
         padding: 0 auto;
+        text-align: center;
+      }
+      .titel table {
+        border-collapse:collapse
       }
       ul {
         align-items: center;
@@ -96,20 +100,21 @@
         <p class="lead">{{ site.description | default: site.description | default: site.github.project_tagline }}</p>
       </div>
     </div>
-    
+
     <div class="wrapper">
       <section>
-        <h2>{{ page.title }}</h2>
-
-        <table>
-          <tr>
-
-            <td>By {{ page.author }}</td>
-            <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
-            <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
-          </tr>
-        </table>
-
+        <div class="title">
+          <h2>{{ page.title }}</h2>
+          <table>
+            {% if page.author %}
+            <tr>
+              <td>By {{ page.author }}</td>
+              <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
+              <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
+            </tr>
+            {% endif %}
+          </table>
+        </div>
         {{ content }}
 
       </section>
