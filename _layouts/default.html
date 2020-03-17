@@ -34,7 +34,7 @@ tipue_search_active: true
       h1, h2, h3, h4, h5, h6 { color: #839496;}
       h1, h2 { text-align: center; }
       h1, h2, h3 { font-size: medium; }
-      /* Navbar Style
+      /* Navbar Style */
       nav { margin: 0 auto; padding: 0 auto; border-bottom: 1px solid #B58900; }
       .navbar-nav{ margin: 0 10px; }              /* current page nav */
       .navbar-nav li { margin: 0 5px; }           /* current page nav & toggler nav */
@@ -63,12 +63,6 @@ tipue_search_active: true
       /* Dividing Line */
       hr { border: 0; border-bottom: 1px dotted #B58900; }
       /* Search Result Style */
-      /* .tipue-search form {
-        display: inline-block; margin-right:10px;
-      }
-      .tipue-search button {
-        display: inline-block;
-      } */
       .tipue-search {
         display: flex; justify-content: space-between;
       }
@@ -92,8 +86,12 @@ tipue_search_active: true
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
       <!-- Current Page Nav Button -->
       <button type="button" class="btn btn-primary">
-        <a class="nav-link" href="https://tane-rs.github.io/"> <b>Blog</b> <span class="sr-only">(current)</span></a>
-      <button>
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="https://tane-rs.github.io/"> Blog <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+      </button>
       <!-- Push Other Items Right -->
       <div class="flex-grow-1"></div>
       <!-- Search Page URL -->
