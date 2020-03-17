@@ -83,26 +83,15 @@ tipue_search_active: true
 
   <body>
     <!-- Navbar -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-      <!-- Current Page Nav Button -->
-      <button type="button" class="btn btn-primary">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="https://tane-rs.github.io/"> Blog <span class="sr-only">(current)</span></a>
-          </li>
-        </ul>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+      <a class="navbar-brand" href="https://tane-rs.github.io/"> <b>Blog</b> </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" 
+        aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation"
+      ><span class="navbar-toggler-icon"></span>
       </button>
-      <!-- Push Other Items Right -->
-      <div class="flex-grow-1"></div>
-      <!-- Search Page URL -->
-      <button type="button" class="btn btn-outline-secondary  btn-sm">
-        <a class="nav-link active" href="./search.html"> Search within <b>Blog</b>... </a>
-      </button>
-      <!-- Toggler Nav Items-->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse flex-grow-0" id="navbarColor02">
+      <div class="collapse navbar-collapse" id="navbarColor02">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> DataSci & AI </a>
@@ -117,9 +106,12 @@ tipue_search_active: true
             <a class="nav-link" href="https://github.com/tane-rs/"><i class="fab fa-github 3x"></i> Repos </a>
           </li>
         </ul>
+        <button type="button" class="btn btn-outline-secondary  btn-sm">
+          <a class="nav-link active" href="./search.html"> Search within <b>Blog</b>... </a>
+        </button>
       </div>
     </nav>
-
+ 
     <!-- Site Title -->
     <div id="title">
       <div class="jumbotron">
