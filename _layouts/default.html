@@ -75,7 +75,7 @@ tipue_search_active: true
 
   <body>
     <!-- Navbar -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-dark justify-content-end">
 
       <a class="navbar-brand" href="https://tane-rs.github.io/"> Blog </a>
 
@@ -83,7 +83,7 @@ tipue_search_active: true
         aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation"
       ><span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarColor02">
+      <div class="collapse navbar-collapse flex-grow-0" id="navbarColor02">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> DataSci & AI </a>
@@ -97,14 +97,10 @@ tipue_search_active: true
           <li class="nav-item">
             <a class="nav-link" href="https://github.com/tane-rs/"><i class="fab fa-github 3x"></i> Repos </a>
           </li>
+          <button type="button" class="btn btn-outline-secondary right-btn btn-sm mr-sm-2">
+            <a class="nav-link" href="./search.html"><i class="fas fa-search"></i> Search within <b>Blog</b>... </a>
+          </button>
         </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="text" placeholder="Search">
-          <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-        </form>
-        <!-- <button type="button" class="btn btn-outline-secondary right-btn btn-sm mr-sm-2">
-          <a class="nav-link" href="./search.html"><i class="fas fa-search"></i> Search within <b>Blog</b>... </a>
-        </button> -->
       </div>
     </nav>
  
