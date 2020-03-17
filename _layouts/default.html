@@ -67,11 +67,11 @@ tipue_search_active: true
           margin: 10px auto;
           padding: 0 auto;
         }
-        /* .wrapper section {
+        .wrapper section {
           max-width: 960px;
           margin: 0 auto;
           padding: 0 auto;
-        } */
+        }
         /* Headlines */
         h1, h2, h3, h4, h5, h6 {
           color: #839496;
@@ -119,6 +119,10 @@ tipue_search_active: true
           border-bottom: 1px dotted #B58900;
         }
         /* Search Result Style */
+        .tipue-search {
+          display: inline-block;
+          align-items: center;
+        }
         #tipue_search_content {
           margin: 75px;
           max-width: 960px; 
@@ -179,12 +183,14 @@ tipue_search_active: true
     </nav>
     <!-- Search Result if Searched-->
     <div class="wrapper">
-      <div id="tipue_search_content"></div>
-      <script>
-        $(document).ready(function() {
-          $('#tipue_search_input').tipuesearch();
-        });
-      </script>
+      <section>
+        <div id="tipue_search_content"></div>
+        <script>
+          $(document).ready(function() {
+            $('#tipue_search_input').tipuesearch();
+          });
+        </script>
+      </section>
     </div>
     <!-- Site Title -->
     <div id="title">
