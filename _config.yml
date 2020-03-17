@@ -1,11 +1,6 @@
-title: TaneRS Blog
-description: >- # this means to ignore newlines until "baseurl:"
-  To Record & Share
-url: "https://tane-rs.github.io"
-theme: jekyll-theme-midnight
-
+# Tipue search settings
 tipue_search:
   include:
     pages: true
-  # exclude:
-  #   files: [default.html]
+  exclude:
+    files: [search.html]
