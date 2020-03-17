@@ -36,13 +36,10 @@ tipue_search_active: true
       /* Navbar Style */
       nav { margin: 0 auto; padding: 0 auto; border-bottom: 1px solid #B58900; }
       .navbar-brand { margin: 0 30px;}              /* current page nav */
-      .navbar-nav li { margin: 0 8px; }           /* current page nav & toggler nav */
-      button .nav-link{ padding: 0 auto; left: auto !important; right: 10px; }        /* nav link to search page */
-      #navbarColor02 ul { align-items: center; }  /* toggler button inner */
-      .navbar-collapse.in {
-        display: block !important;                /* keep collaps open till click */
-               /* keep collaps align right */
-      } 
+      .navbar-nav li { margin: 0 8px; }             /* toggler nav */
+      .navbar-collapse ul { align-items: center; }  /* toggler button inner */
+      .navbar-collapse.in {display: block !important;}  /* keep collaps open till click */
+      .navbar-collapse button { padding: 0 auto; left: auto !important; right: 10px; }        /* nav link to search page */
       /* Site Title Style */
       #title {  margin: 1px auto; padding: 0 auto; text-align: center; }
       #title h1 { font-size: xx-large;}
@@ -60,25 +57,16 @@ tipue_search_active: true
         .title tr { border: 0 !important; }
         .title td { border: 0 !important; }
       }
+      /* Home Page Posts List*/
       li h3 { font-size: large;}
       /* Dividing Line */
       hr { border: 0; border-bottom: 1px dotted #B58900; }
       /* Search Result Style */
-      .tipue-search {
-        display: flex; justify-content: space-between;
-      }
-      #tipue_search_content {
-        max-width: 960px; margin: 0 auto;
-      }
-      .tipue_search_result_count {
-        color: #D33682;
-      }
-      .tipue_search_content_text {
-        color: #839496;
-      }
-      .tipue_search_content_bold {
-        color: #B58900;
-      }
+      .tipue-search { display: flex; justify-content: space-between; }
+      #tipue_search_content { max-width: 960px; margin: 0 auto; }
+      .tipue_search_result_count { color: #D33682; }
+      .tipue_search_content_text { color: #839496; }
+      .tipue_search_content_bold { color: #B58900; }
     </style>
   </head>
 
@@ -108,7 +96,7 @@ tipue_search_active: true
           </li>
           <div class="flex-grow-1"></div>
           <button type="button" class="btn btn-outline-secondary  btn-sm">
-            <a class="nav-link activ" href="./search.html"><i class="fas fa-search"></i> Search within <b>Blog</b>... </a>
+            <a class="nav-link" href="./search.html"><i class="fas fa-search"></i> Search within <b>Blog</b>... </a>
           </button>
         </ul>
       </div>
