@@ -2,11 +2,19 @@ title: TaneRS Blog
 description: >
   To Record & Share
 url: "https://tane-rs.github.io"
-theme: jekyll-theme-midnight
 
-# Tipue search settings
+# Search settings
 tipue_search:
   include:
     pages: true
   exclude:
-    files: [search.html]
+    files: [index.md, search.html]
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
