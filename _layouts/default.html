@@ -66,12 +66,23 @@
         align-items: center;
       }
       .title table {
+        margin: 10px auto;
+        border-collapse: collapse;
         table-layout: fixed;
         width: 720;
+        border: 0 !important;
       }
       .title td {
         padding: 0;
         text-align: center;
+      }
+      @media print {
+        .title table {
+          border: 0 !important;
+        }
+        .title tr {
+          border: 0 !important;
+        }
       }
       hr {
         border: 0;
