@@ -163,19 +163,6 @@
 
     <div class="wrapper">
       <section>
-        <div class="title">
-          <h2>{{ page.title }}</h2>
-          {% if page.author %}
-            <table>
-              <tr>
-                <td>By {{ page.author }}</td>
-                <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
-                <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
-              </tr>
-            </table>
-            <hr>
-          {% endif %}
-        </div>
         {{ content }}
       </section>
       <hr>
