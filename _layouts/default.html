@@ -27,7 +27,88 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
     <style>
-
+      * {
+          margin: 0;
+          padding: 0;
+        }
+        body {
+          padding-top: 70 px;
+          font-size: large;
+        }
+        nav {
+          margin: 0 auto;
+          padding: 0 auto;
+          border-bottom: 1px solid #B58900;
+        }
+        #navbarColor02 ul {
+          align-items: center;
+        }
+        .navbar-collapse.in {
+          display: block !important; /* keep collaps open till click */
+          left: auto !important;
+          right: 0px;
+        }
+        #title {
+          margin-top: 50px;
+          margin-bottom: 0;
+          padding: 0 auto;
+          text-align: center;
+        }
+        #title h1 {
+          font-size: xx-large;
+        }
+        .wrapper {
+          max-width: 960px; 
+          margin: 10px auto;
+          padding: 0 auto;
+        }
+        .wrapper section {
+          max-width: 960px;
+          margin: 0 auto;
+          padding: 0 auto;
+        }
+        h1, h2, h3, h4, h5, h6 {
+          color: #839496;
+        }
+        h1, h2 {
+          text-align: center;
+        }
+        h3 {
+          font-size: large;
+        }
+        .title {
+          align-items: center;
+        }
+        .title table {
+          margin: 20px auto;
+          border-collapse: collapse;
+          table-layout: fixed;
+          width: 720;
+          border-bottom: 0;
+        }
+        .title tr {
+          border-bottom: 0;
+        }
+        .title td {
+          padding: 0;
+          text-align: center;
+          border-bottom: 0;
+        }
+        @media print {
+          .title table {
+            border: 0 !important;  /* remove border */
+          }
+          .title tr {
+            border: 0 !important;
+          }
+          .title td {
+            border: 0 !important;
+          }
+        }
+        hr {
+          border: 0;
+          border-bottom: 1px dotted #B58900;
+        }
     </style>
   </head>
 
