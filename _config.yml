@@ -7,4 +7,5 @@ theme: jekyll-theme-midnight
 tipue_search:
   include:
     pages: true
-    collections: [apples, oranges]
+  # exclude:
+  #   files: [default.html]
