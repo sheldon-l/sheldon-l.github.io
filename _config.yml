@@ -1,7 +1,7 @@
 title: TaneRS Blog
 description: >
   To Record & Share
-url: "https://tane-rs.github.io"
+baseurl: "/"
 
 # Search settings
 tipue_search:
