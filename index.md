@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 tipue_search_active: true
 ---
 
