@@ -28,7 +28,15 @@
     body { padding-top: 65px; font-size: large; margin: 0 auto; padding: 0 auto; align-items: center; }
     h1, h2, h3, h4, h5, h6 { color: #839496; }
     h1, h2 { text-align: center; }
-    h3 { font-size: large; }
+		h3 { font-size: large; }
+		table { width: 480; margin: 20px auto; border-collapse: collapse; table-layout: fixed; border-bottom: 0; }
+    tr { border-bottom: 0; }
+    td { padding: 0; text-align: center; border-bottom: 0; }
+    @media print {
+      table { border: 0 !important; } /* remove border */
+      tr { border: 0 !important; }
+      td { border: 0 !important; }
+    }
     /* Navbar Style */
     #navbar { margin: 0 auto; padding: 0 auto; border-bottom: 1px solid #B58900; }
     .navbar-brand { margin: 0 30px; }
@@ -48,15 +56,6 @@
     section form {align-items: center;}
     /* Page Title */
     .title { align-items: center; }
-    /* Author-date Table under Title */
-    .title table { width: 480; margin: 20px auto; border-collapse: collapse; table-layout: fixed; border-bottom: 0; }
-    .title tr { border-bottom: 0; }
-    .title td { padding: 0; text-align: center; border-bottom: 0; }
-    @media print {
-      .title table { border: 0 !important; } /* remove border */
-      .title tr { border: 0 !important; }
-      .title td { border: 0 !important; }
-    }
     /* Dividing Line */
     hr { border: 0; border-bottom: 1px dotted #B58900; }
     /* Tipue Search Form */
