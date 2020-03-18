@@ -9,21 +9,13 @@ exclude_from_search: true
 
 <div class="wrapper">
   <section>
-    <div class="form-group">
-      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    </div>
-    <!-- Tipue Search Form -->
-    <!-- <div class="tipue-search"> -->
-      <form class="form-group" action="{{ page.url | relative_url }}">
-        <!-- <div class="tipue_search_right"> -->
-        <input
-          class="form-control" type="text" placeholder="Search within Blog..." 
-          name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required
-        >
-        <!-- </div> -->
-        <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
-      </form>
-    <!-- </div> -->
+    <form class="form-group" action="{{ page.url | relative_url }}">
+      <input
+        class="form-control" type="text" placeholder="At least 3 characters..." 
+        name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required
+      >
+      <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+    </form>
     <!-- Tipue Search Results -->
     <div id="tipue_search_content"></div>
   </section>
