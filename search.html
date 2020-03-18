@@ -13,11 +13,16 @@ exclude_from_search: true
       <input class="form-control mr-sm-2" type="text" placeholder="Search">
       <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
     </form>
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
     <!-- Tipue Search Form -->
     <div class="tipue-search">
-      <form class="form-inline my-2 my-lg-0" action="{{ page.url | relative_url }}">
+      <form class="form-group" action="{{ page.url | relative_url }}">
         <div class="tipue_search_right"><input
-          class="form-control mr-sm-2" type="text" placeholder="Search in Blog..." 
+          class="form-control" type="text" placeholder="Search in Blog..." 
           name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required
         ></div>
         <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
