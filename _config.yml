@@ -1,6 +1,7 @@
 title: TaneRS Blog
 description: >
   To Record & Share
+  
 baseurl: "/"
 theme: jekyll-theme-midnight
 
