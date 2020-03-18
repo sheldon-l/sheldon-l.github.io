@@ -22,12 +22,11 @@ tipue_search_active: true
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   <!-- Tipue Search Scripts and Stylesheets -->
   {% if page.tipue_search_active or layout.tipue_search_active %}
-    <link rel="stylesheet" href="../assets/tipuesearch/css/normalize.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="../assets/tipuesearch/tipuesearch_content.js"></script>
-    <link rel="stylesheet" href="../assets/tipuesearch/css/tipuesearch.css">
-    <script src="../assets/tipuesearch/tipuesearch_set.js"></script>
-    <script src="../assets/tipuesearch/tipuesearch.min.js"></script>
+    <script src="{{ '/assets/tipuesearch/tipuesearch_content.js' | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ '/assets/tipuesearch/css/tipuesearch.css' | relative_url }}">
+    <script src="{{ '/assets/tipuesearch/tipuesearch_set.js' | relative_url }}"></script>
+    <script src="{{ '/assets/tipuesearch/tipuesearch.min.js' | relative_url }}"></script>
   {% endif %}
 
   <style>
@@ -42,7 +41,7 @@ tipue_search_active: true
     .navbar-collapse ul { align-items: center; border-bottom: 5px; }
     .navbar-collapse li { margin: 0 5px; }
     .navbar-collapse.in { display: block !important;  left: auto !important; right: 0px; } /* keep collaps open till click, and float right */
-    .navbar-collapse button { margin: 10px 30px; padding: 0 20px; }
+    .navbar-collapse button { margin: 10px 30px; padding: 0 10px; }
     /* Site Title Style */
     #title { margin: 0; padding: 0 auto; text-align: center; }
     #title h1 { font-size: xx-large; }
@@ -78,12 +77,7 @@ tipue_search_active: true
   <!-- Navbar -->
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
     <!-- Current Page Nav Button -->
-    <!-- <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="https://tane-rs.github.io/"> Blog <span class="sr-only">(current)</span></a>
-      </li>
-    </ul> -->
-    <a class="navbar-brand" href="https://tane-rs.github.io/"> Blog </a>
+    <a class="navbar-brand" href="https://tane-rs.github.io/"> TaneRS </a>
     <!-- Push Other Items Right -->
     <div class="flex-grow-1"></div>
     <!-- Toggler Nav Items-->
@@ -92,6 +86,9 @@ tipue_search_active: true
     </button>
     <div class="collapse navbar-collapse flex-grow-0" id="navbarColor02">
       <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="navbar-link" href="{{ '/' | relative_url }}"> Blog <span class="sr-only">(current)</span></a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="https://tane-rs.github.io/road-to-data-science"> DataSci & AI </a>
         </li>
