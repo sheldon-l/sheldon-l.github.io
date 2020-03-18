@@ -9,9 +9,13 @@ exclude_from_search: true
 
 <div class="wrapper">
   <section>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="text" placeholder="Search">
+      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+    </form>
     <!-- Tipue Search Bar -->
     <div class="tipue-search">
-      <form action="{{ page.url | relative_url }}">
+      <form class="form-inline my-2 my-lg-0" action="{{ page.url | relative_url }}">
         <div class="tipue_search_right"><input
           class="form-control mr-sm-2" type="text" placeholder="Search in Blog..." 
           name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required
