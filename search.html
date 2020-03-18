@@ -9,17 +9,11 @@ exclude_from_search: true
 
 <div class="wrapper">
   <section>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search">
-      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-    </form>
     <div class="form-group">
-      <label for="exampleInputEmail1">Email address</label>
       <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
     <!-- Tipue Search Form -->
-    <div class="tipue-search">
+    <!-- <div class="tipue-search"> -->
       <form class="form-group" action="{{ page.url | relative_url }}">
         <div class="tipue_search_right"><input
           class="form-control" type="text" placeholder="Search in Blog..." 
@@ -27,7 +21,7 @@ exclude_from_search: true
         ></div>
         <button class="btn btn-secondary my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
       </form>
-    </div>
+    <!-- </div> -->
     <!-- Tipue Search Results -->
     <div id="tipue_search_content"></div>
   </section>
