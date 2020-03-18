@@ -2,6 +2,7 @@ title: TaneRS Blog
 description: >
   To Record & Share
 baseurl: "/"
+theme: jekyll-theme-midnight
 
 # Search settings
 tipue_search:
@@ -9,8 +10,3 @@ tipue_search:
     pages: true
   exclude:
     files: [index.md, search.html]
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-midnight
-
