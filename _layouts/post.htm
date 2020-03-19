@@ -1,31 +1,29 @@
 ---
-layout: site
+layout: page
 ---
-<article>
-  <div class="title">
-    <h2>{{ page.title }}</h2>
-    {% if page.author %}
-      {% if page.published_at %}
-        {% if page.updated_at %}
-          <table>
-            <tr>
-              <td>By {{ page.author }}</td>
-              <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
-              <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
-            </tr>
-          </table>
-          <hr>
-        {% endif %}
+
+<div class="title">
+  <h2>{{ page.title }}</h2>
+  {% if page.author %}
+    {% if page.published_at %}
+      {% if page.updated_at %}
+        <table>
+          <tr>
+            <td>By {{ page.author }}</td>
+            <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
+            <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
+          </tr>
+        </table>
+        <hr>
       {% endif %}
     {% endif %}
-  </div>
+  {% endif %}
+</div>
 
-  {{ content }}
+{{ content }}
 
+{%- if site.disqus.shortname -%}
+  {%- include disqus_comments.html -%}
+{%- endif -%}
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
