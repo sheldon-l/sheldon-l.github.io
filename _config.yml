@@ -1,14 +1,14 @@
 title: TaneRS Blog
 description: >
   To Record & Share
-  
 baseurl: "/"
 theme: jekyll-theme-midnight
-paginate: 10
-paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 # Search settings
 tipue_search:
