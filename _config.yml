@@ -4,11 +4,11 @@ description: >
 baseurl: "/"
 theme: jekyll-theme-midnight
 
-plugins:
-  - jekyll-paginate
+# plugins:
+#   - jekyll-paginate-v2
 
-paginate: 10
-paginate_path: "/page:num/"
+# paginate: 10
+# paginate_path: "/page:num/"
 
 # Search settings
 tipue_search:
