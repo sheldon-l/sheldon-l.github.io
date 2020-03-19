@@ -17,6 +17,6 @@ tipue_search:
   exclude:
     files: [index.md, search.html]
 
-# paginate
-paginate: 10
-paginate_path: "/page:num/"
+# # paginate
+# paginate: 10
+# paginate_path: "/page:num/"
