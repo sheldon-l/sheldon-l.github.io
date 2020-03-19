@@ -4,6 +4,7 @@ description: >
   
 baseurl: "/"
 theme: jekyll-theme-midnight
+paginate: 10
 
 # Search settings
 tipue_search:
