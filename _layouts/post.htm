@@ -7,7 +7,7 @@ layout: page
   {% if page.author %}
     {% if page.published_at %}
       {% if page.updated_at %}
-        <table>
+        <table class="small text-muted">
           <tr>
             <td>By {{ page.author }}</td>
             <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
