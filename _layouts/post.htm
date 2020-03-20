@@ -9,9 +9,9 @@ layout: page
       {% if page.updated_at %}
         <table class="small text-muted">
           <tr>
-            <td>By {{ page.author }}</td>
-            <td>Published at {{ page.published_at | date: "%Y-%m-%d" }}</td>
-            <td>Updated at {{ page.updated_at | date: "%Y-%m-%d" }}</td>
+            <td>By <i>{{ page.author }}</i></td>
+            <td>Published at <i>{{ page.published_at | date: "%Y-%m-%d" }}</i></td>
+            <td>Updated at <i>{{ page.updated_at | date: "%Y-%m-%d" }}</i></td>
           </tr>
         </table>
         <hr>
