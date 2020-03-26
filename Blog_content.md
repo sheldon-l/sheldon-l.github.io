@@ -2,6 +2,10 @@
 layout: default
 ---
 
+2020-03-23 [Expo 1 - React Native (Expo) Dev Environment Setup](_posts/2020-03-23-00.md)
+
+2020-03-17 [Dapp 1 - Start a Decenterized App](_posts/2020-03-17-00.md)
+
 2020-03-16 [Python 6 - Python Twitter Bot That Auto Likes](_posts/2020-03-16-00.md)
 
 2020-03-15 [Python 5 - Build A Twitter Bot With Python That Gets You Followers](_posts/2020-03-15-00.md)
@@ -24,11 +28,11 @@ layout: default
 
 2020-03-08 [NetDevOps 1 - Useful Python Libraries for Network Engineers](_posts/2020-03-08-00.md)
 
-2020-03-05 [Node 2 - TypeScript Setup With Node & Express](_posts/2020-03-05-00.md)
+2020-03-05 [NodeJS 4 - TypeScript Setup With Node & Express](_posts/2020-03-05-00.md)
 
 2020-03-05 [TS 1 - Getting started with TypeScript](_posts/2020-03-05-00.md)
 
-2020-03-04 [NodeJS 2 - Node.js With Passport Authentication](_posts/2020-03-04-02.md)
+2020-03-04 [NodeJS 3 - Node.js With Passport Authentication](_posts/2020-03-04-02.md)
 
 2020-03-04 [Express 1 - Express JS Crash Course](_posts/2020-03-04-01.md)
 
@@ -40,7 +44,7 @@ layout: default
 
 2020-02-29 [Docker 1 - Get Docker Started](_posts/2020-02-29-00.md)
 
-2020-02-28 [NodeJS 1 - NodeJS Crash Course with Mongo](_posts/2020-02-28-00.md)
+2020-02-28 [NodeJS 2 - NodeJS Crash Course with Mongo](_posts/2020-02-28-00.md)
 
 2020-02-27 [JS 1 - Java Script Crash Course](_posts/2020-02-27-00.md)
 
@@ -52,15 +56,13 @@ layout: default
 
 2020-02-09 [Web3py 1 - Start a Blockchain](_posts/2020-02-09-01.md)
 
-2020-02-09 [Dapp 1 - Start a Decenterized App](_posts/2020-03-17-00.md)
-
 2020-01-28 [VBox 3 - Install MacOS in VirtualBox](_posts/2020-01-28-00.md)
 
 2020-01-10 [Django 2 - Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
 
 2020-01-10 [Django 1 - Install Postgres along with Django](_posts/2020-01-10-00.md)
 
-2019-12-16 [Developer 1 - Installation of Node.js and vue.js on Ubuntu](_posts/2019-12-16-01.md)
+2019-12-16 [NodeJS 1 - Installation of Node.js on Ubuntu](_posts/2019-12-16-01.md)
 
 2019-12-05 [Shell 3 - My `.vimrc`](_posts/2019-12-05-00.md)
 
