@@ -2,6 +2,12 @@
 layout: default
 ---
 
+2020-03-30 [Stellarium 2 - Equatorial and Horizontal Coordinates](_posts/2020-03-30-01.md)
+
+2020-03-30 [Stellarium 1 - Installation in Linux](_posts/2020-03-30-00.md)
+
+2020-03-28 [Python 7 - Dictionary Examples, get() vs. setdefault()](_posts/2020-03-28-00.md)
+
 2020-03-23 [Expo 1 - React Native (Expo) Dev Environment Setup](_posts/2020-03-23-00.md)
 
 2020-03-17 [Dapp 1 - Start a Decenterized App](_posts/2020-03-17-00.md)
