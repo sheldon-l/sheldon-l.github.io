@@ -2,6 +2,8 @@
 layout: default
 ---
 
+2020-03-31 [Compound Interest Calculator](_posts/2020-03-31-00.md)
+
 2020-03-30 [Stellarium 2 - Equatorial and Horizontal Coordinates](_posts/2020-03-30-01.md)
 
 2020-03-30 [Stellarium 1 - Installation in Linux](_posts/2020-03-30-00.md)
@@ -115,3 +117,5 @@ layout: default
 2019-02-01 [Hold a Blog on GithubPage](_posts/2019-02-01-00.md)
 
 2019-01-01 [Getting Start with Git and Common Usage](_posts/2019-01-01-00.md)
+
+2018-11-01 [My Syllabus](_posts/2018-11-01-00.md)
