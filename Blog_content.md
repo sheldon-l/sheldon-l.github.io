@@ -94,7 +94,7 @@ layout: default
 
 2019-10-17 [Linux 6 - Setup of Debian-liked Desktop](_posts/2019-10-17-02.md)
 
-2019-10-17 [Linux 5 - Installation of Ubuntu along with Win10 (Daul Hard Drive)](_posts/2019-10-17-01.md)
+2019-10-17 [Linux 5 - Install Ubuntu along with Win10 (Daul Hard Drive)](_posts/2019-10-17-01.md)
 
 2019-10-17 [Linux 4 - Add and Enable a Repo Source in Lunix (if got 'not signed' ERROR)](_posts/2019-10-17-00.md)
 
