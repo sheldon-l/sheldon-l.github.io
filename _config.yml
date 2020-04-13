@@ -9,7 +9,7 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [index.md, search.html]
+    files: [index.md, search.html, *_content.html]
 
 # # paginate
 # paginate: 10
