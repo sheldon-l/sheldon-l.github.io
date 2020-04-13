@@ -18,9 +18,9 @@ layout: default
 
 2020-03-15 [Python 5 - Build Twitter Bot With Webdriver](_posts/2020-03-15-00.md)
 
-2020-03-14 [ReactJS 2 - Build a Recipe App With React](_posts/2020-03-14-00.md)
+2020-03-14 [React 2 - Build a Recipe App With React](_posts/2020-03-14-00.md)
 
-2020-03-13 [ReactJS 1 - React JS Crash Course, Todo List](_posts/2020-03-13-01.md)
+2020-03-13 [React 1 - React JS Crash Course, Todo List](_posts/2020-03-13-01.md)
 
 2020-03-13 [Vue 2 - Build a Calendar With Vue, Vuetify & Firebase](_posts/2020-03-13-00.md)
 
@@ -68,7 +68,7 @@ layout: default
 
 2020-01-10 [Django 1 - Install PostgreSQL along with Django](_posts/2020-01-10-00.md)
 
-2019-12-16 [NodeJS 1 - Install Node.js on Ubuntu](_posts/2019-12-16-01.md)
+2019-12-16 [NodeJS 1 - Install Node.js along with Yarn in Ubuntu](_posts/2019-12-16-01.md)
 
 2019-12-05 [Shell 3 - My `.vimrc`](_posts/2019-12-05-00.md)
 
