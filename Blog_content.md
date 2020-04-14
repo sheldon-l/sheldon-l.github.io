@@ -82,7 +82,7 @@ layout: default
 
 2019-11-09 [Linux 9 - Basic Knowledge of Unix, Linux, and BSD](_posts/2019-11-09-00.md)
 
-2019-11-07 [Linux 8 - Install Portable OS on USB](_posts/2019-11-07-01.md)
+2019-11-07 [Linux 8 - Making a Kali Bootable USB Drive](_posts/2019-11-07-01.md)
 
 2019-11-07 [VBox 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
