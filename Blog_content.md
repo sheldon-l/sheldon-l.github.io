@@ -2,6 +2,8 @@
 layout: default
 ---
 
+2020-04-16 [Penetration 1 - Start Web Penetration](_posts/2020-04-16-00.md)
+
 2020-03-31 [Compound Interest Calculator](_posts/2020-03-31-00.md)
 
 2020-03-30 [Stellarium 2 - Equatorial and Horizontal Coordinates](_posts/2020-03-30-01.md)
@@ -82,7 +84,7 @@ layout: default
 
 2019-11-09 [Linux 9 - Basic Knowledge of Unix, Linux, and BSD](_posts/2019-11-09-00.md)
 
-2019-11-07 [Linux 8 - Making a Kali Bootable USB Drive](_posts/2019-11-07-01.md)
+2019-11-07 [Linux 8 - Making a Bootable Live USB Drive](_posts/2019-11-07-01.md)
 
 2019-11-07 [VBox 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
