@@ -2,7 +2,9 @@
 layout: default
 ---
 
-2020-04-19 [Penetration 2 - Start up Nethunter](_posts/2020-04-19-00.md)
+2019-04-21 [Linux 11 - Kali Linux Revealed](_posts/2019-4-21-00.md)
+
+2020-04-19 [Penetration 2 - Passive Reconnaissance of Web App Penetration](_posts/2020-04-19-00.md)
 
 2020-04-16 [Penetration 1 - Start up Web App Penetration](_posts/2020-04-16-00.md)
 
@@ -80,13 +82,13 @@ layout: default
 
 2019-11-19 [Shell 2 - Basic Shell Script](_posts/2019-11-19-01.md)
 
-2019-11-14 [Shell 1 - Usage of `.bashrc`, `.bash_alias`, & `.bash_profile`](_posts/2019-11-14-00.md)
+2019-11-14 [Shell 1 - Usage of .bashrc, .bash_alias, and .bash_profile](_posts/2019-11-14-00.md)
 
 2019-11-10 [Linux 10 - Connect Linux and Android through Termux with SSH](_posts/2019-11-10-00.md)
 
-2019-11-09 [Linux 9 - Basic Knowledge of Unix, Linux, and BSD](_posts/2019-11-09-00.md)
+2019-11-09 [Linux 9 - Basics of Linux](_posts/2019-11-09-00.md)
 
-2019-11-07 [Linux 8 - Making a Bootable Live USB Drive](_posts/2019-11-07-01.md)
+2019-11-07 [Linux 8 - Making a Bootable Bootable/Live USB Drive](_posts/2019-11-07-01.md)
 
 2019-11-07 [VBox 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
