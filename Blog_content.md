@@ -92,7 +92,7 @@ layout: default
 
 2019-11-07 [VBox 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
-2019-10-29 [Linux 7 - Basic Operation For Debian-liked System](_posts/2019-10-29-00.md)
+2019-10-29 [Linux 7 - Usfule Commands For Debian-liked System](_posts/2019-10-29-00.md)
 
 2019-10-28 [GCP 1 - Build VPS on GCP](_posts/2019-10-28-01.md)
 
