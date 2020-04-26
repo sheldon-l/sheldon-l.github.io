@@ -2,7 +2,11 @@
 layout: default
 ---
 
-2019-04-21 [Linux 11 - Kali Linux Revealed](_posts/2019-4-21-00.md)
+2020-04-24 [Linux 11 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-4-24-00.md)
+
+2020-04-22 [VBox4 - Boot OS from USB in VirtualBox](_posts/2020-4-22-00.md)
+
+2020-04-21 [Kali 1 - Kali Linux Revealed](_posts/2020-4-21-00.md)
 
 2020-04-19 [Penetration 2 - Passive Reconnaissance of Web App Penetration](_posts/2020-04-19-00.md)
 
@@ -92,7 +96,7 @@ layout: default
 
 2019-11-07 [VBox 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
-2019-10-29 [Linux 7 - Usfule Commands For Debian-liked System](_posts/2019-10-29-00.md)
+2019-10-29 [Linux 7 - Useful Commands For Debian-like Linux](_posts/2019-10-29-00.md)
 
 2019-10-28 [GCP 1 - Build VPS on GCP](_posts/2019-10-28-01.md)
 
