@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Blog Contents
+
 2020-04-24 [Linux 11 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-4-24-00.md)
 
 2020-04-22 [VBox4 - Boot OS from USB in VirtualBox](_posts/2020-4-22-00.md)
