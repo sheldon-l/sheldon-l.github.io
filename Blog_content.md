@@ -4,7 +4,11 @@ layout: default
 
 # Blog Contents
 
-2020-04-24 [Linux 11 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-4-24-00.md)
+2020-04-29 [Linux 14 - Network Operations in Linux](_posts/2020-4-29-01.md)
+
+2020-04-29 [Linux 13 - User Environment in Linux](_posts/2020-4-29-00.md)
+
+2020-04-24 [Linux 12 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-4-24-00.md)
 
 2020-04-22 [VBox4 - Boot OS from USB in VirtualBox](_posts/2020-4-22-00.md)
 
@@ -82,13 +86,13 @@ layout: default
 
 2019-12-16 [NodeJS 1 - Install Node.js along with Yarn in Ubuntu](_posts/2019-12-16-01.md)
 
-2019-12-05 [Shell 3 - My `.vimrc`](_posts/2019-12-05-00.md)
+2019-12-05 [Linux 11 - Manipulating Text in Linux](_posts/2019-12-05-00.md)
 
 2019-11-22 [Python 3 - To Be a Python Full Stack Developer](_posts/2019-11-22-00.md)
 
 2019-11-19 [Shell 2 - Basic Shell Script](_posts/2019-11-19-01.md)
 
-2019-11-14 [Shell 1 - Usage of .bashrc, .bash_alias, and .bash_profile](_posts/2019-11-14-00.md)
+2019-11-14 [Shell 1 - My Startup Files](_posts/2019-11-14-00.md)
 
 2019-11-10 [Linux 10 - Connect Linux and Android through Termux with SSH](_posts/2019-11-10-00.md)
 
