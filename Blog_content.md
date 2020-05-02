@@ -4,6 +4,8 @@ layout: default
 
 # Blog Contents
 
+2020-05-02 [Linux 16 - Local Security Principles on Linux](_posts/2020-05-02-00.md)
+
 2020-05-01 [Linux 15 - Printing on Linux](_posts/2020-05-01-00.md)
 
 2020-04-29 [Linux 14 - Network Operations in Linux](_posts/2020-04-29-01.md)
