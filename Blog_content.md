@@ -4,15 +4,17 @@ layout: default
 
 # Blog Contents
 
-2020-04-29 [Linux 14 - Network Operations in Linux](_posts/2020-4-29-01.md)
+2020-05-01 [Linux 15 - Printing on Linux](_posts/2020-05-01-00.md)
 
-2020-04-29 [Linux 13 - User Environment in Linux](_posts/2020-4-29-00.md)
+2020-04-29 [Linux 14 - Network Operations in Linux](_posts/2020-04-29-01.md)
 
-2020-04-24 [Linux 12 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-4-24-00.md)
+2020-04-29 [Linux 13 - User Environment in Linux](_posts/2020-04-29-00.md)
 
-2020-04-22 [VBox4 - Boot OS from USB in VirtualBox](_posts/2020-4-22-00.md)
+2020-04-24 [Linux 12 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-04-24-00.md)
 
-2020-04-21 [Kali 1 - Kali Linux Revealed](_posts/2020-4-21-00.md)
+2020-04-22 [VBox4 - Boot OS from USB in VirtualBox](_posts/2020-04-22-00.md)
+
+2020-04-21 [Kali 1 - Kali Linux Revealed](_posts/2020-04-21-00.md)
 
 2020-04-19 [Penetration 2 - Passive Reconnaissance of Web App Penetration](_posts/2020-04-19-00.md)
 
