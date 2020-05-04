@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/taners
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tane-rs.github.io
+  * I am taners (https://keybase.io/taners) on keybase.
+  * I have a public key with fingerprint 4FBC EEBF 0B91 515B EF44  0066 35DF 5C3E 4DCE 6520
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010127fd0bd3263d237e3509e891ef9e9168254c97d67d578b82bb83be2456dd93ee0a",
+      "fingerprint": "4fbceebf0b91515bef44006635df5c3e4dce6520",
+      "host": "keybase.io",
+      "key_id": "35df5c3e4dce6520",
+      "kid": "010127fd0bd3263d237e3509e891ef9e9168254c97d67d578b82bb83be2456dd93ee0a",
+      "uid": "93654da60a9bef1089aa4e284c6ff019",
+      "username": "taners"
+    },
+    "service": {
+      "hostname": "tane-rs.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1588577314,
+  "expire_in": 157680000,
+  "prev": "d8e0c5514dadfb6bc9cfed9395dbd02853e95e680d5ec7b0ef9c0e3635e06699",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD4nLVTQhIKii9QWJHWy2cvsxVISKaig20MKlYednX/PWazd
+0+5qWQkhYiUFUVZkGHQhwdRM6EpghvTQxbJMqLB6KCyKCo0uRtGsFfTQY/MyzPzf
+9833/f90pSeF0sKrBpznvQMlR8O3Oo+WhUrOdnHbOOLQCi53G1cKIxtsoOD50VKL
+crkc4hEvKCZFhIqCLFJBVEDESANV48HUQONlVcCSoSlUVihWVKIKhKgiAUHCMqWa
+CIB0LsKZlh0DN+Fats9kJZMYAMREROMxjwmYkoSQLIuYmtgQQaIGyFhAjBh3vIDB
+zBHdgxzLYXfsEB2x9w/8f/ZdNiKniTKWqC4jXWNeeaRqui6BoEqGbJqI1wKgB66t
+bwSG9nUbXI+rjHDsrtwyIGhrkOOv+lzXy4lZfryM/IqUcB3fMZwNrBz3/YSXG9D9
+ikSA3wwk+lspSiybslYyRjl7w3JsLpdnSMO3AmkeqypWFJGXIhxsSVguRK0AgRVZ
+RWwF70A5k6QqIANjnoWiJpGJoRkmsNQapoQiQcUiaBgYiWIwFIJYzwwEIhsQsDFp
+QWAPNtkO0xaYTz3GND0rZut+mQtc5fVr65JD4bTQmNGjgj8WSkvN/PPzqptSQh33
+4p8zFy5ecuXQouFE5/nuognZx198qU970dx+6hExqletGZc++XZ4f/LlHX1fG89V
+7oxNOfa4vZDk3d9TaCtH2khBil5XmUhpoNJQ8zd/Wv0PcWX+yfpdpDHyuLjorXTh
++OG2lUbP6d2Dwt1LLZ96vk5vnTI+nFqw940i3uiHw8/6/dKqjv6PfF5WzoyZb/oe
+Pk2/2Dvm+cHaRHvr+syqwd7kq2NrJu58HRnobj3woanv7fs5+Vnly6dWZ2yt+1zc
+aM2rzX54M8Ve1rBwxfah1Q/OjMqIra4tnvlseM3w/KwnGbP7w6+K+qZ+P1Gz9nRS
+y6yX2kDJnX1LSzO/uSfGTYq/m7/gJ9PFR6Y=
+=3GZ9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/taners
+
+==================================================================
