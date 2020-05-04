@@ -4,6 +4,8 @@ layout: default
 
 # Blog Contents
 
+2020-05-04 [DevOps 2 - Introduction to DevOps/SRE](_posts/2020-05-04-00.md)
+
 2020-05-02 [Linux 16 - Local Security Principles on Linux](_posts/2020-05-02-00.md)
 
 2020-05-01 [Linux 15 - Printing on Linux](_posts/2020-05-01-00.md)
@@ -54,7 +56,7 @@ layout: default
 
 2020-03-09 [Dart 1 - Dart Programming Tutorial](_posts/2020-03-09-00.md)
 
-2020-03-08 [NetDevOps 1 - Useful Python Libraries for Network Engineers](_posts/2020-03-08-00.md)
+2020-03-08 [DevOps 1 - Useful Python Libraries for Network Engineers](_posts/2020-03-08-00.md)
 
 2020-03-05 [TS 1 - Getting started with TypeScript](_posts/2020-03-05-00.md)
 
