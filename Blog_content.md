@@ -4,6 +4,12 @@ layout: default
 
 # Blog Contents
 
+2020-05-11 [Linux 17 - Install GPU on UBUNTU 20.04](_posts/2020-05-11-00.md)
+
+2020-05-10 [CCNA 2 - Exercise Part 4 - 6 (Router)](_posts/2020-05-10-00.md)
+
+2020-05-09 [CCNA 1 - Exercise Part 1 - 3 (Switch)](_posts/2020-05-09-00.md)
+
 2020-05-05 [OSS 1 - A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT](_posts/2020-05-05-00.md)
 
 2020-05-04 [SR/DE 1 - Introduction to DevOps/SRE](_posts/2020-05-04-00.md)
@@ -18,7 +24,7 @@ layout: default
 
 2020-04-24 [Linux 12 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-04-24-00.md)
 
-2020-04-22 [VBox4 - Boot OS from USB in VirtualBox](_posts/2020-04-22-00.md)
+2020-04-22 [VM 4 - Boot OS from USB in VirtualBox](_posts/2020-04-22-00.md)
 
 2020-04-21 [Kali 1 - Kali Linux Revealed](_posts/2020-04-21-00.md)
 
@@ -86,7 +92,7 @@ layout: default
 
 2020-02-09 [Web3py 1 - Start a Blockchain](_posts/2020-02-09-01.md)
 
-2020-01-28 [VBox 3 - Install MacOS in VirtualBox](_posts/2020-01-28-00.md)
+2020-01-28 [VM 3 - Install MacOS in VirtualBox / VMware](_posts/2020-01-28-00.md)
 
 2020-01-10 [Django 2 - Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
 
@@ -108,7 +114,7 @@ layout: default
 
 2019-11-07 [Linux 8 - Making a Bootable Bootable/Live USB Drive](_posts/2019-11-07-01.md)
 
-2019-11-07 [VBox 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
+2019-11-07 [VM 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
 2019-10-29 [Linux 7 - Useful Commands For Debian-like Linux](_posts/2019-10-29-00.md)
 
@@ -136,7 +142,7 @@ layout: default
 
 2019-09-14 [Linux 1 - Install and Start MySQL on Linux](_posts/2019-09-14-01.md)
 
-2019-09-14 [VBox 1 - Install VirtualBox on Ubuntu Desktop](_posts/2019-09-14-00.md)
+2019-09-14 [VM 1 - Install VirtualBox / VMware on Ubuntu Desktop](_posts/2019-09-14-00.md)
 
 2019-02-01 [Hold a Blog on GithubPages](_posts/2019-02-01-00.md)
 
