@@ -4,11 +4,17 @@ layout: default
 
 # Blog Contents
 
+2020-05-14 [CCNA 5 - Configure WAN Protocols](_posts/2020-05-14-01.md)
+
+2020-05-14 [CCNA 4 - Configure IP Routing](_posts/2020-05-14-00.md)
+
+2020-05-13 [CCNA 3 - Managing Cisco Devices](_posts/2020-05-13-01.md)
+
+2020-05-13 [CCNA 2 - Managing Cisco Network](_posts/2020-05-13-00.md)
+
 2020-05-11 [Linux 17 - Install GPU on UBUNTU 20.04](_posts/2020-05-11-00.md)
 
-2020-05-10 [CCNA 2 - Exercise Part 4 - 6 (Router)](_posts/2020-05-10-00.md)
-
-2020-05-09 [CCNA 1 - Exercise Part 1 - 3 (Switch)](_posts/2020-05-09-00.md)
+2020-05-09 [CCNA 1 - Admin and Setting Swithes](_posts/2020-05-09-00.md)
 
 2020-05-05 [OSS 1 - A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT](_posts/2020-05-05-00.md)
 
