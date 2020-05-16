@@ -26,7 +26,7 @@ layout: default
 
 2020-04-29 [Linux 14 - Network Operations in Linux](_posts/2020-04-29-01.md)
 
-2020-04-29 [Linux 13 - User Environment in Linux](_posts/2020-04-29-00.md)
+2020-04-29 [Linux 13 - Users, Environment and Permissions in Linux](_posts/2020-04-29-00.md)
 
 2020-04-24 [Linux 12 - Upgrade Ubuntu 18.04 to 20.04](_posts/2020-04-24-00.md)
 
