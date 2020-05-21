@@ -4,6 +4,10 @@ layout: default
 
 # Blog Contents
 
+2020-05-21 [CCNA 7 - Access Control Lists](_posts/2020-05-21-00.md)
+
+2020-05-20 [CCNA 6 - L3 Switches, VLANs and Advanced Configuration](_posts/2020-05-20-00.md)
+
 2020-05-14 [CCNA 5 - Configure WAN Protocols](_posts/2020-05-14-01.md)
 
 2020-05-14 [CCNA 4 - Configure IP Routing](_posts/2020-05-14-00.md)
@@ -14,7 +18,7 @@ layout: default
 
 2020-05-11 [Linux 17 - Install GPU on UBUNTU 20.04](_posts/2020-05-11-00.md)
 
-2020-05-09 [CCNA 1 - Admin and Setting Swithes](_posts/2020-05-09-00.md)
+2020-05-09 [CCNA 1 - L2 Switches Admin and Setting](_posts/2020-05-09-00.md)
 
 2020-05-05 [OSS 1 - A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT](_posts/2020-05-05-00.md)
 
