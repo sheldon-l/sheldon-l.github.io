@@ -4,7 +4,11 @@ layout: default
 
 # Blog Contents
 
-2020-05-21 [CCNA 7 - Access Control Lists](_posts/2020-05-21-00.md)
+2020-06-03 [Music 1 - Chords on Gitar](_posts/2020-06-03-00.md)
+
+2020-05-25 [CCNA 8 - Accessing List Configuration](_posts/2020-05-25-00.md)
+
+2020-05-21 [CCNA 7 - Install PacketTracer 7.3 on Ubuntu 20.04](_posts/2020-05-21-00.md)
 
 2020-05-20 [CCNA 6 - L3 Switches, VLANs and Advanced Configuration](_posts/2020-05-20-00.md)
 
@@ -14,11 +18,11 @@ layout: default
 
 2020-05-13 [CCNA 3 - Managing Cisco Devices](_posts/2020-05-13-01.md)
 
-2020-05-13 [CCNA 2 - Managing Cisco Network](_posts/2020-05-13-00.md)
+2020-05-13 [CCNA 2 - L2 Switch Configuration](_posts/2020-05-13-00.md)
 
 2020-05-11 [Linux 17 - Install GPU on UBUNTU 20.04](_posts/2020-05-11-00.md)
 
-2020-05-09 [CCNA 1 - L2 Switches Admin and Setting](_posts/2020-05-09-00.md)
+2020-05-09 [CCNA 1 - Managing Cisco Network](_posts/2020-05-09-00.md)
 
 2020-05-05 [OSS 1 - A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT](_posts/2020-05-05-00.md)
 
@@ -114,7 +118,7 @@ layout: default
 
 2019-11-22 [Python 3 - To Be a Python Full Stack Developer](_posts/2019-11-22-00.md)
 
-2019-11-19 [Shell 2 - Basic Shell Script](_posts/2019-11-19-01.md)
+2019-11-19 [Shell 2 - Basic Shell Script and Automation Task](_posts/2019-11-19-01.md)
 
 2019-11-14 [Shell 1 - My Startup Files](_posts/2019-11-14-00.md)
 
