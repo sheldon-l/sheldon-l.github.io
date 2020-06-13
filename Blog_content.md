@@ -66,17 +66,17 @@ layout: default
 
 2020-03-15 [Python 5 - Build Twitter Bot With Webdriver](_posts/2020-03-15-00.md)
 
-2020-03-14 [React 2 - Build a Recipe App With React](_posts/2020-03-14-00.md)
+2020-03-14 [JS 11 - Build a Recipe App With React](_posts/2020-03-14-00.md)
 
-2020-03-13 [React 1 - React JS Crash Course, Todo List](_posts/2020-03-13-01.md)
+2020-03-13 [JS 10 - React Crash Course, Todo List](_posts/2020-03-13-01.md)
 
-2020-03-13 [Vue 2 - Build a Calendar With Vue, Vuetify & Firebase](_posts/2020-03-13-00.md)
+2020-03-13 [JS 9 - Build a Calendar With Vue.js, Vuetify & Firebase](_posts/2020-03-13-00.md)
 
-2020-03-12 [Vue 1 - Vue JS Crash Course, SPA Todo List](_posts/2020-03-12-00.md)
+2020-03-12 [JS 8 - Vue.js Crash Course, SPA Todo List](_posts/2020-03-12-00.md)
 
-2020-03-11 [ReactNative 1 - React Native Crash Course 2020](_posts/2020-03-11-03.md)
+2020-03-11 [JS 7 - React Native Crash Course 2020](_posts/2020-03-11-03.md)
 
-2020-03-11 [Flutter 1 - Build App with Google's Flutter & Dart](_posts/2020-03-11-01.md)
+2020-03-11 [Dart 2 - Build App with Google's Flutter & Dart](_posts/2020-03-11-01.md)
 
 2020-03-11 [Android 1 - Start an Emulator in Android Studio](_posts/2020-03-11-00.md)
 
@@ -84,13 +84,13 @@ layout: default
 
 2020-03-08 [Python 4 - Useful Python Libraries for Network Engineers](_posts/2020-03-08-00.md)
 
-2020-03-05 [TS 1 - Getting started with TypeScript](_posts/2020-03-05-00.md)
+2020-03-05 [JS 6 - Getting started with TypeScript](_posts/2020-03-05-00.md)
 
-2020-03-04 [NodeJS 3 - Node.js With Passport Authentication](_posts/2020-03-04-02.md)
+2020-03-04 [JS 5 - Node.js With Passport Authentication](_posts/2020-03-04-02.md)
 
-2020-03-04 [Express 1 - Express JS Crash Course](_posts/2020-03-04-01.md)
+2020-03-04 [JS 4 - Express.js Crash Course](_posts/2020-03-04-01.md)
 
-2020-03-04 [JS 2 - JS CSS HTML Animated Counter](_posts/2020-03-04-00.md)
+2020-03-04 [JS 3 - JS CSS HTML Animated Counter](_posts/2020-03-04-00.md)
 
 2020-03-01 [Docker 3 - Quick Wordpress Setup With Docker](_posts/2020-03-01-01.md)
 
@@ -98,7 +98,7 @@ layout: default
 
 2020-02-29 [Docker 1 - Get Docker Started](_posts/2020-02-29-00.md)
 
-2020-02-28 [NodeJS 2 - NodeJS Crash Course with Mongo](_posts/2020-02-28-00.md)
+2020-02-28 [JS 2 - Node.js Crash Course with Mongo](_posts/2020-02-28-00.md)
 
 2020-02-27 [JS 1 - Java Script Crash Course](_posts/2020-02-27-00.md)
 
@@ -135,8 +135,6 @@ layout: default
 2019-11-07 [VM 2 - Install any OS on VirtualBox](_posts/2019-11-07-00.md)
 
 2019-10-29 [Linux 7 - Useful Commands For Debian-like Linux](_posts/2019-10-29-00.md)
-
-2019-10-28 [GCP 1 - Build VPS on GCP](_posts/2019-10-28-01.md)
 
 2019-10-23 [Hardware 1 - Hackintosh List](_posts/2019-10-23-00.md)
 
