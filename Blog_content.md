@@ -4,9 +4,17 @@ layout: default
 
 # Blog Contents
 
-2020-06-14 [PHP 2 - Start a CodeIgniter Project](_posts/2020-06-14-00.md)
+2020-06-24 [PHP 5 - Laraval Basics](_posts/2020-06-24-00.md)
 
-2020-06-12 [PHP 1 - Start Using LAMP](_posts/2020-06-12-00.md)
+2020-06-23 [PHP 4 - MYSQL and phpmyadmin](_posts/2020-06-23-00.md)
+
+2020-06-20 [PHP 3 - PHP Language Basics](_posts/2020-06-20-00.md)
+
+2020-06-15 [DevOps 2 - Start Ansible in Cisco](_posts/2020-06-15-00.md)
+
+2020-06-14 [PHP 2 - Start a PHP Project With a Framework](_posts/2020-06-14-00.md)
+
+2020-06-12 [PHP 1 - Start Using PHP Stacks](_posts/2020-06-12-00.md)
 
 2020-06-03 [Music 1 - Chords on Guitar](_posts/2020-06-03-00.md)
 
@@ -18,7 +26,7 @@ layout: default
 
 2020-05-14 [CCNA 5 - Configure WAN Protocols](_posts/2020-05-14-01.md)
 
-2020-05-14 [CCNA 4 - Configure IP Routing](_posts/2020-05-14-00.md)
+2020-05-14 [CCNA 4 - Configure IP Routing Protocols](_posts/2020-05-14-00.md)
 
 2020-05-13 [CCNA 3 - Managing Cisco Devices](_posts/2020-05-13-01.md)
 
@@ -30,7 +38,7 @@ layout: default
 
 2020-05-05 [OSS 1 - A BEGINNER'S GUIDE TO OPEN SOURCE SOFTWARE DEVELOPMENT](_posts/2020-05-05-00.md)
 
-2020-05-04 [SR/DE 1 - Introduction to DevOps/SRE](_posts/2020-05-04-00.md)
+2020-05-04 [DevOps 1 - Introduction to DevOps/SRE](_posts/2020-05-04-00.md)
 
 2020-05-02 [Linux 16 - Local Security Principles on Linux](_posts/2020-05-02-00.md)
 
