@@ -170,8 +170,8 @@ layout: default
 
 2019-09-14 [VM 1 - Install VirtualBox / VMware on Ubuntu Desktop](_posts/2019-09-14-00.md)
 
-2019-02-01 [git 2 - Hold a Blog on GithubPages](_posts/2019-02-01-00.md)
+2019-02-01 [Git 2 - Hold a Blog on GithubPages](_posts/2019-02-01-00.md)
 
-2019-01-01 [git 1 - Getting Start Git and Common Usage](_posts/2019-01-01-00.md)
+2019-01-01 [Git 1 - Getting Start Git and Common Usage](_posts/2019-01-01-00.md)
 
 2018-11-01 [My Syllabus](_posts/2018-11-01-00.md)
