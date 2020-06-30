@@ -1,8 +1,8 @@
 import os
 
-folder = 'temp1'
-origin = 'tane-rs.github.io'
-replacement = 'www.sheldonl.com'
+folder = '_posts'
+origin = 'road-to-data-science'
+replacement = 'ds-ai-ml'
 
 fls = os.listdir(f'./{folder}/')
 
