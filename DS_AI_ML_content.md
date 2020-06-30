@@ -2,14 +2,7 @@
 layout: default
 ---
 
-# Road to Data Science & AI
-
-  - Maths & Statistics    
-  - Computer Science  
-  - Substantive Experties  
-  - QUESTIONS FIRST:  
-     - Curiosity & Enthusiasm
-     - Empathy & Sympathy for users' problems
+# Data Science, Artificial Intelligence, and Machine Learning
 
 2019-11-06 [Improving Deep Neural Networks - Hyperparameter tuning, Regularization and Optimization 2-2](../road-to-data-science/_posts/2019-11-09-00.md)
 

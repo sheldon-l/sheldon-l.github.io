@@ -4,6 +4,8 @@ layout: default
 
 # Blog Contents
 
+2020-06-29 []
+
 2020-06-24 [PHP 5 - Laraval Basics](_posts/2020-06-24-00.md)
 
 2020-06-23 [PHP 4 - MYSQL and phpmyadmin](_posts/2020-06-23-00.md)
@@ -168,8 +170,8 @@ layout: default
 
 2019-09-14 [VM 1 - Install VirtualBox / VMware on Ubuntu Desktop](_posts/2019-09-14-00.md)
 
-2019-02-01 [Hold a Blog on GithubPages](_posts/2019-02-01-00.md)
+2019-02-01 [git 2 - Hold a Blog on GithubPages](_posts/2019-02-01-00.md)
 
-2019-01-01 [Getting Start Git and Common Usage](_posts/2019-01-01-00.md)
+2019-01-01 [git 1 - Getting Start Git and Common Usage](_posts/2019-01-01-00.md)
 
 2018-11-01 [My Syllabus](_posts/2018-11-01-00.md)
