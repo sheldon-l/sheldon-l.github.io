@@ -10,7 +10,3 @@ tipue_search:
     pages: true
   exclude:
     files: [index.md, search.html, Blog_content.md, DS_AI_ML_content.md, CiscoCert_content.md]
-
-# # paginate
-# paginate: 10
-# paginate_path: "/page:num/"
