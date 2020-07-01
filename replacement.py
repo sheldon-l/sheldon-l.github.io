@@ -1,7 +1,7 @@
 import os
 
-origin = 'sheldonl.com'
-replacement = 'sheldonl.com'
+origin = ''
+replacement = ''
 folder = '_posts'
 
 fls = os.listdir(f'./{folder}/')
@@ -16,7 +16,7 @@ for file in fls:
       if line.find(origin) != -1:
         line = line.replace(origin, replacement)
         print(line)
-    #   new_lines.append(line)
+      new_lines.append(line)
 
     # with open (f'./temp/{file}', 'w') as new:
     #   for line in new_lines:
