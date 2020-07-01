@@ -1,8 +1,8 @@
 import os
 
 folder = '_posts'
-origin = 'road-to-data-science'
-replacement = 'ds-ai-ml'
+origin = ''
+replacement = ''
 
 fls = os.listdir(f'./{folder}/')
 
