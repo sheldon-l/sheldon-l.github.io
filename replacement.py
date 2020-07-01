@@ -1,8 +1,8 @@
 import os
 
-folder = '_posts'
 origin = ''
 replacement = ''
+folder = '_posts'
 
 fls = os.listdir(f'./{folder}/')
 
