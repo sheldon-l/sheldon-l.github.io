@@ -4,9 +4,7 @@ layout: default
 
 # Blog Contents
 
-2020-06-29 []
-
-2020-06-24 [PHP 5 - Laraval Basics](_posts/2020-06-24-00.md)
+2020-07-02 [PHP 5 - Laraval Basics](_posts/2020-06-24-00.md)
 
 2020-06-23 [PHP 4 - MYSQL and phpmyadmin](_posts/2020-06-23-00.md)
 
