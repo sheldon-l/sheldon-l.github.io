@@ -70,8 +70,6 @@ layout: default
 
 2020-03-23 [Android 2 - Start an Emulator in Genymotion with ReactNative in Expo](_posts/2020-03-23-00.md)
 
-2020-03-17 [Dapp 1 - Start a Decenterized App](_posts/2020-03-17-00.md)
-
 2020-03-16 [Python 6 - Build Twitter Bot With Webdriver](_posts/2020-03-16-00.md)
 
 2020-03-15 [Python 5 - Build Twitter Bot With Webdriver](_posts/2020-03-15-00.md)
