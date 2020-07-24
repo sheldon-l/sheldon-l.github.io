@@ -4,7 +4,7 @@ layout: default
 
 # Blog Contents
 
-2020-07-02 [PHP 5 - Laraval Basics](_posts/2020-06-24-00.md)
+2020-07-02 [PHP 5 - Laraval Basics](_posts/2020-07-02-00.md)
 
 2020-06-23 [PHP 4 - MYSQL and phpmyadmin](_posts/2020-06-23-00.md)
 
@@ -121,8 +121,6 @@ layout: default
 2020-01-10 [Django 2 - Start a Django App on REPL.IT](_posts/2020-01-10-01.md)
 
 2020-01-10 [Django 1 - Install PostgreSQL along with Django](_posts/2020-01-10-00.md)
-
-2019-12-16 [NodeJS 1 - Install Node.js along with Yarn in Ubuntu](_posts/2019-12-16-01.md)
 
 2019-12-05 [Linux 11 - Manipulating Text in Linux](_posts/2019-12-05-00.md)
 

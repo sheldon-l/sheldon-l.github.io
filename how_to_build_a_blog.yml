@@ -1,0 +1,40 @@
+---
+blog:
+  models:
+    - category
+    - post
+    - galleries:
+      - photose
+      - vedios
+    - pages:
+      - about
+      - contact
+      - timeline
+      
+  views:
+    - guest_view
+      - homepage
+      - category_list
+      - post_list
+      - pages
+    - member_view
+    - admin_view: 
+      - dashboard
+      - models_CRUD
+      - members_admin
+    
+
+  features:
+
+
+  materials:
+    background_image
+    logo
+    title
+    sub_title
+    main_color
+    host_data:
+      domain_name
+      email
+
+---
