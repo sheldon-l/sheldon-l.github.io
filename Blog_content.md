@@ -4,13 +4,15 @@ layout: default
 
 # Blog Contents
 
-2020-08-11 [PHP 10 - Laravel Blog Web Site (CMS)](_posts/2020-08-11-00.md)
+2020-08-27 [PHP 11 - Laravel Blog Website (Deployment)](_posts/2020-08-27-00.md)
 
-2020-08-09 [PHP 9 - Laravel Blog Web Site (App Config)](_posts/2020-08-09-00.md)
+2020-08-24 [PHP 10 - Laravel Blog Website (Front End)](_posts/2020-08-24-00.md)
 
-2020-08-08 [PHP 8 - Laravel Blog Web Site (Admin)](_posts/2020-08-08-00.md)
+2020-08-11 [PHP 9 - Laravel Blog Website (CMS)](_posts/2020-08-11-00.md)
 
-2020-08-05 [PHP 7 - Laravel Deployment with Forge](_posts/2020-08-05-00.md)
+2020-08-09 [PHP 8 - Laravel Blog Website (App Config)](_posts/2020-08-09-00.md)
+
+2020-08-08 [PHP 7 - Laravel Blog Website (Admin)](_posts/2020-08-08-00.md)
 
 2020-07-26 [PHP 6 - Setup Working Environment for Web Development (MacOS)](_posts/2020-07-26-00.md)
 
