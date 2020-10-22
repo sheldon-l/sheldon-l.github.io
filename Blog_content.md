@@ -4,6 +4,8 @@ layout: default
 
 # Blog Contents
 
+2020-08-28 [MySQL 1 - Basic Usage](_posts/2020-08-28-00.md)
+
 2020-08-27 [PHP 11 - Laravel Blog Website (Deployment)](_posts/2020-08-27-00.md)
 
 2020-08-24 [PHP 10 - Laravel Blog Website (Front End)](_posts/2020-08-24-00.md)
