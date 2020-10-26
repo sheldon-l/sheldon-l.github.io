@@ -1,15 +1,17 @@
 import os
 
-origin = ''
-replacement = ''
-folder = '_posts'
+origin = 'https://www.sheldonl.com/'
+replacement = 'https://sheldonldev.github.io/'
+folder = './_posts'
 
-fls = os.listdir(f'./{folder}/')
+fls = os.listdir(folder)
 
 for file in fls:
-  print(file)
 
-  with open (f'./{folder}/{file}', 'r') as old:
+  # Print all internal links in files
+  print(file)
+  path = folder + '/' + file
+  with open (path, 'r') as old:
     lines = old.readlines()
     new_lines = []
     for line in lines:
@@ -18,6 +20,7 @@ for file in fls:
         print(line)
       new_lines.append(line)
 
-    # with open (f'./temp/{file}', 'w') as new:
-    #   for line in new_lines:
-    #     new.write(line)
+    temp_path = './temp/' + file
+    with open (temp_path, 'w') as new:
+      for line in new_lines:
+        new.write(line)

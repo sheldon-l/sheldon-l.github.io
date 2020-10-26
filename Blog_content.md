@@ -4,13 +4,7 @@ layout: default
 
 # Blog Contents
 
-<<<<<<< HEAD
-2020-08-28 [MySQL 1 - Basic Usage](_posts/2020-08-28-00.md)
-
-2020-08-27 [PHP 11 - Laravel Blog Website (Deployment)](_posts/2020-08-27-00.md)
-=======
 2020-09-11 [PHP 14 - Laravel Blog (Factory and Seeder)](_posts/2020-09-11-01.md)
->>>>>>> ad764f61fd4f77a03046e057a63472c929380dad
 
 2020-09-10 [PHP 13 - Laravel Blog (Deployment)](_posts/2020-09-11-00.md)
 
