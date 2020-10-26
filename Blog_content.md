@@ -26,7 +26,7 @@ layout: default
 
 2020-08-08 [PHP 7 - Laravel Blog (Admin)](_posts/2020-08-08-00.md)
 
-2020-07-26 [PHP 6 - Setup Working Environment for Web Development (MacOS)](_posts/2020-07-26-00.md)
+2020-07-26 [MacOS 1 - Setup Working Environment for Web Development](_posts/2020-07-26-00.md)
 
 2020-07-02 [PHP 5 - Laraval Basics](_posts/2020-07-02-00.md)
 
