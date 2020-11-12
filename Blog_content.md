@@ -8,7 +8,7 @@ layout: default
 
 2020-10-26 [CS 1 - Tools You Need When Programming C](_posts/2020-10-26-00.md)
 
-2020-10-22 [PHP 12 - Laravel Blog Website (Database)](_posts/2020-10-22-00.md)
+2020-10-22 [PHP 12 - Laravel Blog (Database)](_posts/2020-10-22-00.md)
 
 2020-09-11 [PHP 14 - Laravel Blog (Factory and Seeder)](_posts/2020-09-11-01.md)
 
